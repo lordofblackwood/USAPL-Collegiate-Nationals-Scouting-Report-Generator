@@ -5,62 +5,86 @@ Lifter ID,First Name,Last Name,University Represented,Weight Class,Primary Divis
 355447,Alexandra,Lazarus,Midland University,Women - 43kg (94.7lbs),EQUIPPED,,210,LA,Important Links
 498237,Liszette,Ortiz-Rosado,UTSA,Women - 47kg (103.6lbs),EQUIPPED,,317.5,TX,Team Entry
 444334,Sabra,Warren,Sam Houston State University,Women - 47kg (103.6lbs),EQUIPPED,,305,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
-830022,Danielle,Baldassari,Northeastern University,Women - 47kg (103.6lbs),EQUIPPED,,275,MA,Change Request Form
-909855,Tahlaya,Hardin,LSU,Women - 47kg (103.6lbs),EQUIPPED,,247.5,LA,Individual Entry Form
-443945,Raleigh Grace,Parker,Blue Mountain College,Women - 47kg (103.6lbs),EQUIPPED,,240,MS,Referee Sign-up Form
-783390,Cara,Hayes,Louisiana State University,Women - 47kg (103.6lbs),EQUIPPED,,220,LA,Current Roster
-244538,Shelby,Starks,Blue Mountain College,Women - 47kg (103.6lbs),EQUIPPED,,0,MS,Schedule Update - New
-71180,Mihiro,Shimano,Northeastern University,Women - 47kg (103.6lbs),EQUIPPED,,0,MA,Coaches Pass - New
-920077,Serena,Abweh,University Of New Mexico,Women - 47kg (103.6lbs),RAW,,290,NM,Academic Eligibility Form - New
+714961,Iliana,Gamez,University of Texas at Austin,Women - 47kg (103.6lbs),EQUIPPED,,295,TX,Change Request Form
+714961,Iliana,Gamez,University of Texas at Austin,Women - 47kg (103.6lbs),EQUIPPED,,295,TX,Individual Entry Form
+394504,Venu,Phan,Sam Houston State University,Women - 47kg (103.6lbs),EQUIPPED,,287.5,TX,Referee Sign-up Form
+830022,Danielle,Baldassari,Northeastern University,Women - 47kg (103.6lbs),EQUIPPED,,275,MA,Current Roster
+148041,Rebeca,Jaramillo,Sam Houston State University,Women - 47kg (103.6lbs),EQUIPPED,,275,TX,Schedule Update - New
+909855,Tahlaya,Hardin,LSU,Women - 47kg (103.6lbs),EQUIPPED,,247.5,LA,Coaches Pass - New
+443945,Raleigh Grace,Parker,Blue Mountain College,Women - 47kg (103.6lbs),EQUIPPED,,240,MS,Academic Eligibility Form - New
+783390,Cara,Hayes,Louisiana State University,Women - 47kg (103.6lbs),EQUIPPED,,220,LA,
+244538,Shelby,Starks,Blue Mountain College,Women - 47kg (103.6lbs),EQUIPPED,,0,MS,
+71180,Mihiro,Shimano,Northeastern University,Women - 47kg (103.6lbs),EQUIPPED,,0,MA,
+920077,Serena,Abweh,University Of New Mexico,Women - 47kg (103.6lbs),RAW,,290,NM,
 347687,Avelina,Rivera,UTA,Women - 47kg (103.6lbs),RAW,,277.5,TX,
 954088,Julia,Urban,William & Mary,Women - 47kg (103.6lbs),RAW,,270,MD,
 601724,Gaokhia,Yang,UW-La Crosse,Women - 47kg (103.6lbs),RAW,,267.5,WI,
 184179,Shu'ron,Thompson,Missouri Valley College,Women - 47kg (103.6lbs),RAW,,255,MO,
 665216,Cassidy,Olivo,Tarleton State University,Women - 47kg (103.6lbs),RAW,,252,TX,
 227585,Julia,Hoang,UNC-Chapel Hill,Women - 47kg (103.6lbs),RAW,,250,NC,
-725267,Regina,Chen,University of Texas at Austin,Women - 47kg (103.6lbs),RAW,,240,TX,
-446850,Brenda,Hernandez,Texas State University,Women - 47kg (103.6lbs),RAW,,207.5,TX,
-900766,Pallas,Lau,USC,Women - 47kg (103.6lbs),RAW,,205,CA,
-56255,Kayleigh,Frisch,Pennsylvania State University,Women - 47kg (103.6lbs),RAW,,200,PA,
-448963,Mikaela,Leibfried,Midland University,Women - 52kg (114.6lbs),EQUIPPED,,382.5,WI,Important Links
-952827,Alexis,McCarthy,Louisiana Tech University,Women - 52kg (114.6lbs),EQUIPPED,,372.5,LA,Team Entry
-516822,Sabrina,Espinoza,UTSA,Women - 52kg (114.6lbs),EQUIPPED,,320,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
-598996,Kayla,Wampler,Louisiana Tech University,Women - 52kg (114.6lbs),EQUIPPED,,300,LA,Change Request Form
-871556,Stephanie,Hebert,UL Lafayette,Women - 52kg (114.6lbs),EQUIPPED,,262.5,LA,Individual Entry Form
-819776,Kira,Cates,Louisiana State University,Women - 52kg (114.6lbs),EQUIPPED,,257.5,LA,Referee Sign-up Form
-328727,Olivia,Nolan,Louisiana State University,Women - 52kg (114.6lbs),EQUIPPED,,0,FL,Current Roster
-641749,Isabel,Cunha,Rutgers University,Women - 52kg (114.6lbs),RAW,,310,NJ,Schedule Update - New
-111822,Quynh Anh,Nguyen,University of Texas at Austin,Women - 52kg (114.6lbs),RAW,,307.5,TX,Coaches Pass - New
-894176,Shenina,Delfin,University of Texas at Austin,Women - 52kg (114.6lbs),RAW,,307.5,TX,Academic Eligibility Form - New
-806008,Jamie,Schlier,University of Pittsburgh,Women - 52kg (114.6lbs),RAW,,292.5,PA,
-841780,Rilee,Stewart,Missouri Valley College,Women - 52kg (114.6lbs),RAW,,282.5,MO,
-336324,Marta,Tsikitas,Temple University,Women - 52kg (114.6lbs),RAW,,280,PA,
-580212,cindy,tang,Temple University,Women - 52kg (114.6lbs),RAW,,280,PA,
-127498,Katelin,Nguyen,UMass Amherst,Women - 52kg (114.6lbs),RAW,,280,MA,
-987934,Vanessa,Le,UCLA,Women - 52kg (114.6lbs),RAW,,277.5,CA,
+725267,Regina,Chen,University of Texas at Austin,Women - 47kg (103.6lbs),RAW,,240,TX,Important Links
+446850,Brenda,Hernandez,Texas State University,Women - 47kg (103.6lbs),RAW,,207.5,TX,Team Entry
+900766,Pallas,Lau,USC,Women - 47kg (103.6lbs),RAW,,205,CA,Team Roster Submission (No Roster Until Team Entry is Paid)
+56255,Kayleigh,Frisch,Pennsylvania State University,Women - 47kg (103.6lbs),RAW,,200,PA,Change Request Form
+784664,Elma,Lopez,Texas A&M University,Women - 52kg (114.6lbs),EQUIPPED,,442.5,TX,Individual Entry Form
+448963,Mikaela,Leibfried,Midland University,Women - 52kg (114.6lbs),EQUIPPED,,382.5,WI,Referee Sign-up Form
+952827,Alexis,McCarthy,Louisiana Tech University,Women - 52kg (114.6lbs),EQUIPPED,,372.5,LA,Current Roster
+57887,Daniela,Echavarria,University of Texas,Women - 52kg (114.6lbs),EQUIPPED,,337.5,TX,Schedule Update - New
+516822,Sabrina,Espinoza,UTSA,Women - 52kg (114.6lbs),EQUIPPED,,320,TX,Coaches Pass - New
+598996,Kayla,Wampler,Louisiana Tech University,Women - 52kg (114.6lbs),EQUIPPED,,300,LA,Academic Eligibility Form - New
+218343,Raven,Mathews,Northeastern University,Women - 52kg (114.6lbs),EQUIPPED,,297.5,CT,
+284145,Marina,Cantu,Sam Houston State University,Women - 52kg (114.6lbs),EQUIPPED,,280,TX,
+871556,Stephanie,Hebert,UL Lafayette,Women - 52kg (114.6lbs),EQUIPPED,,262.5,LA,
+819776,Kira,Cates,Louisiana State University,Women - 52kg (114.6lbs),EQUIPPED,,257.5,LA,
+452068,Brooke,Brown,Sam Houston State University,Women - 52kg (114.6lbs),EQUIPPED,,230,TX,
+328727,Olivia,Nolan,Louisiana State University,Women - 52kg (114.6lbs),EQUIPPED,,0,FL,
+800121,Elina,Lua Ming,UCLA,Women - 52kg (114.6lbs),RAW,,317.5,CA,
+641749,Isabel,Cunha,Rutgers University,Women - 52kg (114.6lbs),RAW,,310,NJ,
+111822,Quynh Anh,Nguyen,University of Texas at Austin,Women - 52kg (114.6lbs),RAW,,307.5,TX,
+894176,Shenina,Delfin,University of Texas at Austin,Women - 52kg (114.6lbs),RAW,,307.5,TX,Important Links
+324763,Eliana,Umbach,Texas A&M University,Women - 52kg (114.6lbs),RAW,,300,TX,Team Entry
+806008,Jamie,Schlier,University of Pittsburgh,Women - 52kg (114.6lbs),RAW,,292.5,PA,Team Roster Submission (No Roster Until Team Entry is Paid)
+841780,Rilee,Stewart,Missouri Valley College,Women - 52kg (114.6lbs),RAW,,282.5,MO,Change Request Form
+336324,Marta,Tsikitas,Temple University,Women - 52kg (114.6lbs),RAW,,280,PA,Individual Entry Form
+580212,cindy,tang,Temple University,Women - 52kg (114.6lbs),RAW,,280,PA,Referee Sign-up Form
+127498,Katelin,Nguyen,UMass Amherst,Women - 52kg (114.6lbs),RAW,,280,MA,Current Roster
+238803,Nicole,Bolar,University of Texas at Austin,Women - 52kg (114.6lbs),RAW,,280,TX,Schedule Update - New
+987934,Vanessa,Le,UCLA,Women - 52kg (114.6lbs),RAW,,277.5,CA,Coaches Pass - New
+762224,Alicyn,Dickman,The Ohio State University,Women - 52kg (114.6lbs),RAW,,265,OH,Academic Eligibility Form - New
 38896,Jessica,Tomas,Auburn University,Women - 52kg (114.6lbs),RAW,,265,AL,
+600676,Tina,Truong,"University of Colorado, Denver",Women - 52kg (114.6lbs),RAW,,255,CO,
 189774,Abigail,Maxson-Stabile,The Ohio State University,Women - 52kg (114.6lbs),RAW,,237.5,OH,
+522695,Megan,Choy,UW-Madison,Women - 52kg (114.6lbs),RAW,,237.5,WI,
+663267,Martina,Ramirez,Texas A&M University,Women - 52kg (114.6lbs),RAW,,237.5,TX,
 554138,Paige,Yamate,Penn State University,Women - 52kg (114.6lbs),RAW,,232.5,PA,
-448298,Callie,Gaboda,Rutgers University,Women - 52kg (114.6lbs),RAW,,230,NJ,Important Links
-200702,Anne Marie,McCombs,Denison University,Women - 52kg (114.6lbs),RAW,,52,OH,Team Entry
-433005,Andrea,Cho,Rutgers University,Women - 52kg (114.6lbs),RAW,,0,NJ,Team Roster Submission (No Roster Until Team Entry is Paid)
-644567,taryn,tieu,UC Irvine,Women - 52kg (114.6lbs),RAW,,0,CA,Change Request Form
-823413,Jodel,Patino,Midland University,Women - 57kg (125.6lbs),EQUIPPED,,488,NE,Individual Entry Form
-394126,Destinie',Small,UTSA,Women - 57kg (125.6lbs),EQUIPPED,,395,TX,Referee Sign-up Form
-707115,Aislinn,Curry,University of Rhode Island,Women - 57kg (125.6lbs),EQUIPPED,,345,RI,Current Roster
-80860,Madalyn,Hollingsworth,UTSA,Women - 57kg (125.6lbs),EQUIPPED,,335,TX,Schedule Update - New
-489787,Megan,Schroeder,Northeastern University,Women - 57kg (125.6lbs),EQUIPPED,,305,MA,Coaches Pass - New
-332244,Emily,Henderson,Louisiana State University,Women - 57kg (125.6lbs),EQUIPPED,,290,LA,Academic Eligibility Form - New
+448298,Callie,Gaboda,Rutgers University,Women - 52kg (114.6lbs),RAW,,230,NJ,
+200702,Anne Marie,McCombs,Denison University,Women - 52kg (114.6lbs),RAW,,52,OH,
+433005,Andrea,Cho,Rutgers University,Women - 52kg (114.6lbs),RAW,,0,NJ,
+644567,taryn,tieu,UC Irvine,Women - 52kg (114.6lbs),RAW,,0,CA,
+823413,Jodel,Patino,Midland University,Women - 57kg (125.6lbs),EQUIPPED,,488,NE,
+394126,Destinie',Small,UTSA,Women - 57kg (125.6lbs),EQUIPPED,,395,TX,
+68589,Alysia,Santa Cruz-Cernik,United States Naval Academy,Women - 57kg (125.6lbs),EQUIPPED,,365,MD,
+707115,Aislinn,Curry,University of Rhode Island,Women - 57kg (125.6lbs),EQUIPPED,,345,RI,
+80860,Madalyn,Hollingsworth,UTSA,Women - 57kg (125.6lbs),EQUIPPED,,335,TX,
+427633,Leena,Salinas,Texas A&M University,Women - 57kg (125.6lbs),EQUIPPED,,332.5,TX,
+142807,Mei,Westerhold,United States Naval Academy,Women - 57kg (125.6lbs),EQUIPPED,,330,MD,
+142807,Mei,Westerhold,United States Naval Academy,Women - 57kg (125.6lbs),EQUIPPED,,330,MD,
+489787,Megan,Schroeder,Northeastern University,Women - 57kg (125.6lbs),EQUIPPED,,305,MA,
+119681,Jennifer,Chatwell,United States Naval Academy,Women - 57kg (125.6lbs),EQUIPPED,,297.5,MD,
+332244,Emily,Henderson,Louisiana State University,Women - 57kg (125.6lbs),EQUIPPED,,290,LA,
 524649,Kaley,Migues,UL Lafayette,Women - 57kg (125.6lbs),EQUIPPED,,275,LA,
-765636,Skylar,Chambley,UL Lafayette,Women - 57kg (125.6lbs),EQUIPPED,,275,LA,
-968884,Skyleigh,Sears,Midland University,Women - 57kg (125.6lbs),EQUIPPED,,57,TX,
-123721,Celine,Crum,Clemson University,Women - 57kg (125.6lbs),RAW,,380,SC,
-486305,Quinn,Sinay,Bentley University,Women - 57kg (125.6lbs),RAW,,367.5,MA,
-983630,Amanda,Imes,Midland University,Women - 57kg (125.6lbs),RAW,,350,TX,
-975701,Memory,Seale,Texas State University,Women - 57kg (125.6lbs),RAW,,345,TX,
-454159,Emily,Snee,Slippery Rock University,Women - 57kg (125.6lbs),RAW,,337.5,PA,
-451756,Angel,Esquibel,Texas State University,Women - 57kg (125.6lbs),RAW,,332.5,TX,
+765636,Skylar,Chambley,UL Lafayette,Women - 57kg (125.6lbs),EQUIPPED,,275,LA,Important Links
+968884,Skyleigh,Sears,Midland University,Women - 57kg (125.6lbs),EQUIPPED,,57,TX,Team Entry
+123721,Celine,Crum,Clemson University,Women - 57kg (125.6lbs),RAW,,380,SC,Team Roster Submission (No Roster Until Team Entry is Paid)
+486305,Quinn,Sinay,Bentley University,Women - 57kg (125.6lbs),RAW,,367.5,MA,Change Request Form
+983630,Amanda,Imes,Midland University,Women - 57kg (125.6lbs),RAW,,350,TX,Individual Entry Form
+975701,Memory,Seale,Texas State University,Women - 57kg (125.6lbs),RAW,,345,TX,Referee Sign-up Form
+796909,Margaret,Fowler,Texas A&M University,Women - 57kg (125.6lbs),RAW,,340,TX,Current Roster
+454159,Emily,Snee,Slippery Rock University,Women - 57kg (125.6lbs),RAW,,337.5,PA,Schedule Update - New
+451756,Angel,Esquibel,Texas State University,Women - 57kg (125.6lbs),RAW,,332.5,TX,Coaches Pass - New
+635938,Caitlyn,Cooper,UW-Milwaukee,Women - 57kg (125.6lbs),RAW,,332.5,WI,Academic Eligibility Form - New
 615537,Shannon,Kudlawiec,University of Pittsburgh,Women - 57kg (125.6lbs),RAW,,325,PA,
+465981,Victoria,Vargas,Texas A&M University,Women - 57kg (125.6lbs),RAW,,325,TX,
 23703,Nicole,Karpowicz,Lehigh University,Women - 57kg (125.6lbs),RAW,,317.5,PA,
 740759,Athena,Roa,UCI,Women - 57kg (125.6lbs),RAW,,317.5,CA,
 989820,Olivia,Paone,Pennsylvania State University,Women - 57kg (125.6lbs),RAW,,312.5,PA,
@@ -68,106 +92,133 @@ Lifter ID,First Name,Last Name,University Represented,Weight Class,Primary Divis
 400909,Abby,Kline,Kent State University,Women - 57kg (125.6lbs),RAW,,310,OH,
 518609,Katherine,Mccormick,Auburn University,Women - 57kg (125.6lbs),RAW,,307.5,GA,
 465138,Adrianne,Thomas,Angelo State University,Women - 57kg (125.6lbs),RAW,,305,TX,
+626308,Alexis,Arlen,Washington University,Women - 57kg (125.6lbs),RAW,,305,CA,
 721637,Alyssa,Tedrow,University of Southern Indiana,Women - 57kg (125.6lbs),RAW,,300,IN,
 660587,Bailee,Passmore,Friends University,Women - 57kg (125.6lbs),RAW,,295,KS,
 583624,Jensen,Vega,University at Buffalo,Women - 57kg (125.6lbs),RAW,,280,NY,
 184663,Luisa,Soto,Midland University,Women - 57kg (125.6lbs),RAW,,277.5,TX,
 328285,Chava,Whittum,UMass Amherst,Women - 57kg (125.6lbs),RAW,,275,MA,
-165414,Lea,Polito,Rutgers University,Women - 57kg (125.6lbs),RAW,,272.5,MA,Important Links
-405032,Odette,Yang,University of Pennsylvania,Women - 57kg (125.6lbs),RAW,,270,PA,Team Entry
-629192,Daria,Fratangeli,University of Pittsburgh,Women - 57kg (125.6lbs),RAW,,265,PA,Team Roster Submission (No Roster Until Team Entry is Paid)
-762224,Alicyn,Dickman,The Ohio State University,Women - 57kg (125.6lbs),RAW,,265,OH,Change Request Form
-589808,Maritza,Gaeta,Louisiana Tech University,Women - 57kg (125.6lbs),RAW,,262.5,TX,Individual Entry Form
-502051,Elyssa Gallagher,Gallagher,Old Dominion University,Women - 57kg (125.6lbs),RAW,,260,VA,Referee Sign-up Form
-495497,Ellen,Song,Texas A&M University,Women - 57kg (125.6lbs),RAW,,260,TX,Current Roster
-448869,Jaden,Stafford,University of Minnesota,Women - 57kg (125.6lbs),RAW,,257.5,MN,Schedule Update - New
-120712,Karen,Carrera,University of North Texas,Women - 57kg (125.6lbs),RAW,,252.5,TX,Coaches Pass - New
-711823,Isabella,Waung,WashU in St. Louis,Women - 57kg (125.6lbs),RAW,,252.5,MO,Academic Eligibility Form - New
-258113,Casey,Cunningham,The University of Cincinnati,Women - 57kg (125.6lbs),RAW,,251.1,OH,
-526310,Ariel,Nichols,Missouri Valley College,Women - 57kg (125.6lbs),RAW,,237.5,MO,
-624139,Tien,Tran,University of Nebraska-Lincoln,Women - 57kg (125.6lbs),RAW,,232.5,NE,
-798431,Madison,Gibis,Rutgers University,Women - 57kg (125.6lbs),RAW,,230,NJ,
-658784,Kaitlin,Wallner,UW Eau Claire,Women - 57kg (125.6lbs),RAW,,225,WI,
+165414,Lea,Polito,Rutgers University,Women - 57kg (125.6lbs),RAW,,272.5,MA,
+405032,Odette,Yang,University of Pennsylvania,Women - 57kg (125.6lbs),RAW,,270,PA,
+629192,Daria,Fratangeli,University of Pittsburgh,Women - 57kg (125.6lbs),RAW,,265,PA,
+589808,Maritza,Gaeta,Louisiana Tech University,Women - 57kg (125.6lbs),RAW,,262.5,TX,
+502051,Elyssa Gallagher,Gallagher,Old Dominion University,Women - 57kg (125.6lbs),RAW,,260,VA,
+495497,Ellen,Song,Texas A&M University,Women - 57kg (125.6lbs),RAW,,260,TX,
+448869,Jaden,Stafford,University of Minnesota,Women - 57kg (125.6lbs),RAW,,257.5,MN,
+120712,Karen,Carrera,University of North Texas,Women - 57kg (125.6lbs),RAW,,252.5,TX,
+711823,Isabella,Waung,WashU in St. Louis,Women - 57kg (125.6lbs),RAW,,252.5,MO,Important Links
+786298,Devin,Green,University of Rhode Island,Women - 57kg (125.6lbs),RAW,,252.5,NJ,Team Entry
+1441,Jessie,Smith,Sam Houston State University,Women - 57kg (125.6lbs),RAW,,252.5,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
+258113,Casey,Cunningham,The University of Cincinnati,Women - 57kg (125.6lbs),RAW,,251.1,OH,Change Request Form
+306494,Larissa,Villanueva,Texas A&M University,Women - 57kg (125.6lbs),RAW,,245,TX,Individual Entry Form
+663764,Kensington,Naze,UW-Milwaukee,Women - 57kg (125.6lbs),RAW,,240,WI,Referee Sign-up Form
+526310,Ariel,Nichols,Missouri Valley College,Women - 57kg (125.6lbs),RAW,,237.5,MO,Current Roster
+624139,Tien,Tran,University of Nebraska-Lincoln,Women - 57kg (125.6lbs),RAW,,232.5,NE,Schedule Update - New
+798431,Madison,Gibis,Rutgers University,Women - 57kg (125.6lbs),RAW,,230,NJ,Coaches Pass - New
+658784,Kaitlin,Wallner,UW Eau Claire,Women - 57kg (125.6lbs),RAW,,225,WI,Academic Eligibility Form - New
 882283,Stephanie,Degges,UTSA,Women - 57kg (125.6lbs),RAW,,220,TX,
 867556,Cheyeon (Jenny),Kim,UCLA,Women - 57kg (125.6lbs),RAW,,220,CA,
 120725,Julia,Yang,Washington University,Women - 57kg (125.6lbs),RAW,,220,NJ,
 578954,Morgan,Smith,UMass Amherst,Women - 57kg (125.6lbs),RAW,,0,MA,
 655415,Abigail,Weinick,Rutgers University,Women - 57kg (125.6lbs),RAW,,0,NJ,
 56769,Yen,Fan Chiang,Temple University,Women - 57kg (125.6lbs),RAW,,0,PA,
-309252,Alexandra,Chavez,Midland University *Not w team,Women - 63kg (138.8lbs),EQUIPPED,,525,NE,
 147862,Madison,Curry,UTSA,Women - 63kg (138.8lbs),EQUIPPED,,460,TX,
 989510,Calie,Chesler,St. Philip's College,Women - 63kg (138.8lbs),EQUIPPED,,440,TX,
+151067,Madihah,Tomoney,United States Naval Academy,Women - 63kg (138.8lbs),EQUIPPED,,421.387,MD,
 448334,Emma,Ramsey,UW-Parkside,Women - 63kg (138.8lbs),EQUIPPED,,420,WI,
 623594,Camryn,Jordan,Louisiana State University,Women - 63kg (138.8lbs),EQUIPPED,,408.45,LA,
 39541,Melanie,Madere,UL Lafayette,Women - 63kg (138.8lbs),EQUIPPED,,402.5,LA,
 125044,Chelsea,Baudoin,UL Lafayette,Women - 63kg (138.8lbs),EQUIPPED,,400,LA,
 336639,Cassandra,Vargas,UTSA,Women - 63kg (138.8lbs),EQUIPPED,,382.5,TX,
+10499,Destiny,Dominguez,Texas A&M University,Women - 63kg (138.8lbs),EQUIPPED,,382.5,TX,
+301131,Julianna,Morales,University of Texas at Austin,Women - 63kg (138.8lbs),EQUIPPED,,372.5,TX,
+577969,Robyn,Ramon,Texas A&M University,Women - 63kg (138.8lbs),EQUIPPED,,362.5,TX,
 882181,Caroline,Hartberg,Sam Houston State University,Women - 63kg (138.8lbs),EQUIPPED,,356.5,TX,
+103188,Savannah,McDougall,University of Texas at Austin,Women - 63kg (138.8lbs),EQUIPPED,,352.2,TX,
+366944,Gail,Salinas,Sam Houston State University,Women - 63kg (138.8lbs),EQUIPPED,,345,TX,
+818279,Adalia,McDowell,SHSU,Women - 63kg (138.8lbs),EQUIPPED,,340,TX,
 364250,Daniela,Buchbinder,Northeastern University,Women - 63kg (138.8lbs),EQUIPPED,,310,MA,
 505213,Maggie,Soileau,UL Lafayette,Women - 63kg (138.8lbs),EQUIPPED,,282.5,LA,
-3234,Kaitlyn,Kirk,Blue Mountain College,Women - 63kg (138.8lbs),EQUIPPED,,270,MS,
-611300,Christiane,Hazzard,The Ohio State University,Women - 63kg (138.8lbs),RAW,,430,OH,Important Links
-511373,Laisha,Gardner,University of North Texas,Women - 63kg (138.8lbs),RAW,,420,TX,Team Entry
-891211,Luisa,Cruz,Midland University,Women - 63kg (138.8lbs),RAW,,380,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
-462647,Frida,De La Pena Lopez,UTSA,Women - 63kg (138.8lbs),RAW,,367.5,TX,Change Request Form
-866053,Bella,Johnson,Cal Poly SLO,Women - 63kg (138.8lbs),RAW,,362.5,WA,Individual Entry Form
+3234,Kaitlyn,Kirk,Blue Mountain College,Women - 63kg (138.8lbs),EQUIPPED,,270,MS,Important Links
+611300,Christiane,Hazzard,The Ohio State University,Women - 63kg (138.8lbs),RAW,,430,OH,Team Entry
+511373,Laisha,Gardner,University of North Texas,Women - 63kg (138.8lbs),RAW,,420,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
+891211,Luisa,Cruz,Midland University,Women - 63kg (138.8lbs),RAW,,380,TX,Change Request Form
+462647,Frida,De La Pena Lopez,UTSA,Women - 63kg (138.8lbs),RAW,,367.5,TX,Individual Entry Form
 445848,Logan,Eden,Missouri Valley College,Women - 63kg (138.8lbs),RAW,,362.5,MO,Referee Sign-up Form
-998250,Jeeraphan,Suwannawisut,Bergen Community College,Women - 63kg (138.8lbs),RAW,,355,NJ,Current Roster
-920753,Najihatussolehah,Mohd-Zamri,University of Texas at Austin,Women - 63kg (138.8lbs),RAW,,355,TX,Schedule Update - New
-922686,Sophia,Kang,Not affiliated,Women - 63kg (138.8lbs),RAW,,350,TX,Coaches Pass - New
-931647,Anna,Saboe,University of Minnesota-TC,Women - 63kg (138.8lbs),RAW,,345,MN,Academic Eligibility Form - New
+807832,Taylor,Ingram,Texas A&M University,Women - 63kg (138.8lbs),RAW,,360,TX,Current Roster
+998250,Jeeraphan,Suwannawisut,Bergen Community College,Women - 63kg (138.8lbs),RAW,,355,NJ,Schedule Update - New
+920753,Najihatussolehah,Mohd-Zamri,University of Texas at Austin,Women - 63kg (138.8lbs),RAW,,355,TX,Coaches Pass - New
+922686,Sophia,Kang,Not affiliated,Women - 63kg (138.8lbs),RAW,,350,TX,Academic Eligibility Form - New
+931647,Anna,Saboe,University of Minnesota-TC,Women - 63kg (138.8lbs),RAW,,345,MN,
 520330,Katie,An,UMass Lowell,Women - 63kg (138.8lbs),RAW,,345,MA,
 582249,Hallie,Brinson,University of North Texas,Women - 63kg (138.8lbs),RAW,,340,TX,
 420896,Marissa,Olvera,Midland University,Women - 63kg (138.8lbs),RAW,,340,TX,
 229152,Katelyn,Dundas,Midland University,Women - 63kg (138.8lbs),RAW,,337.5,NC,
+174682,Sam,Kroll,UW-Eau Claire,Women - 63kg (138.8lbs),RAW,,335,WI,
 785083,Amanda,Heath,University of Colorado Boulder,Women - 63kg (138.8lbs),RAW,,330,CO,
 132122,Jailyn,Christophene,Missouri Valley College,Women - 63kg (138.8lbs),RAW,,330,MO,
-251132,Lucy,He,UMass Amherst,Women - 63kg (138.8lbs),RAW,,325,MA,
-572472,Ariel,Johnson,University of Texas Austin,Women - 63kg (138.8lbs),RAW,,325,TX,
-417525,Landon,Williams,Liberty University,Women - 63kg (138.8lbs),RAW,,322.5,VA,
-629057,Sarah,McLeod,UW-Madison,Women - 63kg (138.8lbs),RAW,,322.5,WI,
-913710,Sophia,Vitone,Rutgers University,Women - 63kg (138.8lbs),RAW,,315,NJ,
-11161,Alora,Mouyard,McKendree University,Women - 63kg (138.8lbs),RAW,,315,IL,
-663167,Karissa,Cortez,UC Irvine,Women - 63kg (138.8lbs),RAW,,312.5,CA,
-183558,Tatum,Sartor,Central Michigan University,Women - 63kg (138.8lbs),RAW,,310,MI,
-756696,Kimiya,Malek,USC,Women - 63kg (138.8lbs),RAW,,310,CA,
-919914,Sara,Pringle,George Mason Universiry,Women - 63kg (138.8lbs),RAW,,307.5,VA,
+218122,Rebekah,Lubic,University of Rhode Island,Women - 63kg (138.8lbs),RAW,,330,RI,
+251132,Lucy,He,UMass Amherst,Women - 63kg (138.8lbs),RAW,,325,MA,Important Links
+572472,Ariel,Johnson,University of Texas Austin,Women - 63kg (138.8lbs),RAW,,325,TX,Team Entry
+417525,Landon,Williams,Liberty University,Women - 63kg (138.8lbs),RAW,,322.5,VA,Team Roster Submission (No Roster Until Team Entry is Paid)
+629057,Sarah,McLeod,UW-Madison,Women - 63kg (138.8lbs),RAW,,322.5,WI,Change Request Form
+913710,Sophia,Vitone,Rutgers University,Women - 63kg (138.8lbs),RAW,,315,NJ,Individual Entry Form
+11161,Alora,Mouyard,McKendree University,Women - 63kg (138.8lbs),RAW,,315,IL,Referee Sign-up Form
+663167,Karissa,Cortez,UC Irvine,Women - 63kg (138.8lbs),RAW,,312.5,CA,Current Roster
+183558,Tatum,Sartor,Central Michigan University,Women - 63kg (138.8lbs),RAW,,310,MI,Schedule Update - New
+756696,Kimiya,Malek,USC,Women - 63kg (138.8lbs),RAW,,310,CA,Coaches Pass - New
+919914,Sara,Pringle,George Mason Universiry,Women - 63kg (138.8lbs),RAW,,307.5,VA,Academic Eligibility Form - New
+675249,Olivia,Greene,University of Pennsylvania,Women - 63kg (138.8lbs),RAW,,307.5,PA,
 890169,Karina,Stech,Rutgers University,Women - 63kg (138.8lbs),RAW,,300,NJ,
 972257,Lexandra,Garcia,University of Houston,Women - 63kg (138.8lbs),RAW,,297.5,TX,
 984064,Lauren,Cline,Cedarville University,Women - 63kg (138.8lbs),RAW,,292.5,OH,
+219292,charli,tumlinson,Texas A&M University,Women - 63kg (138.8lbs),RAW,,292.5,TX,
 848579,Valeri,natole,University of Pittsburgh,Women - 63kg (138.8lbs),RAW,,290,PA,
 523049,Hannah,Watkins,Friends University,Women - 63kg (138.8lbs),RAW,,290,KS,
 387903,Jane,Fiordeliso,Temple University,Women - 63kg (138.8lbs),RAW,,282.5,PA,
 997583,Shaylee,Clinton,Southern Illinois University,Women - 63kg (138.8lbs),RAW,,282.5,IL,
-355321,Wendy,Jiang,University of Alabama - Bham,Women - 63kg (138.8lbs),RAW,,0,AL,Important Links
-626804,Meredith,Sproull,Pennsylvania State University,Women - 63kg (138.8lbs),RAW,,0,PA,Team Entry
-117303,Gabby,Martinez,UTSA,Women - 72kg (158.7lbs),EQUIPPED,,557.5,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
+28764,Ruby,Bankston,Ottawa University,Women - 63kg (138.8lbs),RAW,,282.5,UT,
+273018,Evelyn,Mendoza,UW-Madison,Women - 63kg (138.8lbs),RAW,RAW,282.5,WI,
+355321,Wendy,Jiang,University of Alabama - Bham,Women - 63kg (138.8lbs),RAW,,0,AL,
+626804,Meredith,Sproull,Pennsylvania State University,Women - 63kg (138.8lbs),RAW,,0,PA,Important Links
+117303,Gabby,Martinez,UTSA,Women - 72kg (158.7lbs),EQUIPPED,,557.5,TX,Team Entry
+309252,Alexandra,Chavez,Midland University *Not w team,Women - 72kg (158.7lbs),EQUIPPED,,525,NE,Team Roster Submission (No Roster Until Team Entry is Paid)
 698157,Brittany,Rabe,Midland University,Women - 72kg (158.7lbs),EQUIPPED,,502.5,NE,Change Request Form
-521146,Tina,Zheng,Northeastern University,Women - 72kg (158.7lbs),EQUIPPED,,465,MA,Individual Entry Form
-610673,Cassandra,Carlton,University of Texas at Austin,Women - 72kg (158.7lbs),EQUIPPED,,445,TX,Referee Sign-up Form
-86580,Tori,Contreras,UTSA,Women - 72kg (158.7lbs),EQUIPPED,,395,TX,Current Roster
-509038,Natalia,Marquez,UTSA,Women - 72kg (158.7lbs),EQUIPPED,,387.5,TX,Schedule Update - New
-90916,Madeleine,Vaver,Muhlenberg College,Women - 72kg (158.7lbs),EQUIPPED,,382.5,MA,Coaches Pass - New
-17553,Taylor,Sullivan,Northeastern University,Women - 72kg (158.7lbs),EQUIPPED,,380,MA,Academic Eligibility Form - New
+678011,Camryn,Ochs,Texas A&M,Women - 72kg (158.7lbs),EQUIPPED,,480,TX,Individual Entry Form
+521146,Tina,Zheng,Northeastern University,Women - 72kg (158.7lbs),EQUIPPED,,465,MA,Referee Sign-up Form
+610673,Cassandra,Carlton,University of Texas at Austin,Women - 72kg (158.7lbs),EQUIPPED,,445,TX,Current Roster
+242695,Rita,Spirrison,Texas A&M University,Women - 72kg (158.7lbs),EQUIPPED,,417.4,TX,Schedule Update - New
+657842,Victoria,Torres,Texas A&M University,Women - 72kg (158.7lbs),EQUIPPED,,407.5,TX,Coaches Pass - New
+86580,Tori,Contreras,UTSA,Women - 72kg (158.7lbs),EQUIPPED,,395,TX,Academic Eligibility Form - New
+509038,Natalia,Marquez,UTSA,Women - 72kg (158.7lbs),EQUIPPED,,387.5,TX,
+90916,Madeleine,Vaver,Muhlenberg College,Women - 72kg (158.7lbs),EQUIPPED,,382.5,MA,
+17553,Taylor,Sullivan,Northeastern University,Women - 72kg (158.7lbs),EQUIPPED,,380,MA,
+670780,Samantha,Haywood,United States Naval Academy,Women - 72kg (158.7lbs),EQUIPPED,,377.5,MD,
+732525,Elena,Gilbert,United States Naval Academy,Women - 72kg (158.7lbs),EQUIPPED,,375,MD,
+47604,Michelle,Olvera,Sam Houston State University,Women - 72kg (158.7lbs),EQUIPPED,,370,TX,
 576802,Alexa,Barber,Louisiana State University,Women - 72kg (158.7lbs),EQUIPPED,,365,LA,
 153769,Adrianna,Huarota,UniversityofWisconsin Parkside,Women - 72kg (158.7lbs),EQUIPPED,,355,WI,
 535334,Ruisi,Gu,Northeastern University,Women - 72kg (158.7lbs),EQUIPPED,,327.5,MA,
 535334,Ruisi,Gu,Northeastern University,Women - 72kg (158.7lbs),EQUIPPED,,327.5,MA,
 709597,Mackenzie,McEntee,UL Lafayette,Women - 72kg (158.7lbs),EQUIPPED,,322.5,LA,
-709597,Mackenzie,McEntee,UL Lafayette,Women - 72kg (158.7lbs),EQUIPPED,,322.5,LA,
-293805,Shaniah,Bethley,Louisiana State University,Women - 72kg (158.7lbs),EQUIPPED,,310,LA,
-37314,Elizabeth,Taft,Northeastern University,Women - 72kg (158.7lbs),EQUIPPED,,302.5,MA,
-183148,Lacey,Pender,Midland University,Women - 72kg (158.7lbs),EQUIPPED,,300,TX,
-705228,Breana Massey,Massey,Blue Mountain College,Women - 72kg (158.7lbs),EQUIPPED,,292.5,MS,Important Links
-361429,Elizabeth,Bankhead,Louisiana State University,Women - 72kg (158.7lbs),EQUIPPED,,0,LA,Team Entry
-579997,Charity,Campbell,Midland University,Women - 72kg (158.7lbs),EQUIPPED,,0,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
-695825,Kloie,Doublin,Midland University,Women - 72kg (158.7lbs),RAW,,520,IN,Change Request Form
-215132,Samantha,Jayes,Midland University,Women - 72kg (158.7lbs),RAW,,422.5,OH,Individual Entry Form
-823771,Shelby,Sullivan,CSUF,Women - 72kg (158.7lbs),RAW,,407.5,CA,Referee Sign-up Form
-5079,Madison,Diemert,University of North Dakota,Women - 72kg (158.7lbs),RAW,,405,ND,Current Roster
-725741,Stella,Pearson,Texas Tech University,Women - 72kg (158.7lbs),RAW,,382.5,TX,Schedule Update - New
-418883,Amanda,Smith,Liberty University,Women - 72kg (158.7lbs),RAW,,370,MI,Coaches Pass - New
-654691,Jennifer,Norton,University of Pittsburgh,Women - 72kg (158.7lbs),RAW,,360,PA,Academic Eligibility Form - New
+709597,Mackenzie,McEntee,UL Lafayette,Women - 72kg (158.7lbs),EQUIPPED,,322.5,LA,Important Links
+623818,Abigail,Bravo,United States Naval Academy,Women - 72kg (158.7lbs),EQUIPPED,,312.5,FL,Team Entry
+293805,Shaniah,Bethley,Louisiana State University,Women - 72kg (158.7lbs),EQUIPPED,,310,LA,Team Roster Submission (No Roster Until Team Entry is Paid)
+37314,Elizabeth,Taft,Northeastern University,Women - 72kg (158.7lbs),EQUIPPED,,302.5,MA,Change Request Form
+183148,Lacey,Pender,Midland University,Women - 72kg (158.7lbs),EQUIPPED,,300,TX,Individual Entry Form
+705228,Breana Massey,Massey,Blue Mountain College,Women - 72kg (158.7lbs),EQUIPPED,,292.5,MS,Referee Sign-up Form
+361429,Elizabeth,Bankhead,Louisiana State University,Women - 72kg (158.7lbs),EQUIPPED,,0,LA,Current Roster
+579997,Charity,Campbell,Midland University,Women - 72kg (158.7lbs),EQUIPPED,,0,TX,Schedule Update - New
+695825,Kloie,Doublin,Midland University,Women - 72kg (158.7lbs),RAW,,520,IN,Coaches Pass - New
+215132,Samantha,Jayes,Midland University,Women - 72kg (158.7lbs),RAW,,422.5,OH,Academic Eligibility Form - New
+823771,Shelby,Sullivan,CSUF,Women - 72kg (158.7lbs),RAW,,407.5,CA,
+5079,Madison,Diemert,University of North Dakota,Women - 72kg (158.7lbs),RAW,,405,ND,
+725741,Stella,Pearson,Texas Tech University,Women - 72kg (158.7lbs),RAW,,382.5,TX,
+672972,Jessica,Salinas,Texas A&M University,Women - 72kg (158.7lbs),RAW,,382.5,TX,
+44529,Couger,Jaramillo,University of Pennsylvania,Women - 72kg (158.7lbs),RAW,,372.5,PA,
+418883,Amanda,Smith,Liberty University,Women - 72kg (158.7lbs),RAW,,370,MI,
+866053,Bella,Johnson,Cal Poly SLO,Women - 72kg (158.7lbs),RAW,,362.5,WA,
+654691,Jennifer,Norton,University of Pittsburgh,Women - 72kg (158.7lbs),RAW,,360,PA,
 657229,Caleigh,Holland,Rutgers University,Women - 72kg (158.7lbs),RAW,,357.5,NJ,
 835831,Rachel,Boehmert,Southern Illinois University,Women - 72kg (158.7lbs),RAW,,357.5,IL,
 952448,Amanda,Carlisle,UMass Amherst,Women - 72kg (158.7lbs),RAW,,352.5,MA,
@@ -175,113 +226,133 @@ Lifter ID,First Name,Last Name,University Represented,Weight Class,Primary Divis
 996928,Ally,Carraway,Midland University,Women - 72kg (158.7lbs),RAW,,347.5,TX,
 794370,Cat,Widay,The Ohio State University,Women - 72kg (158.7lbs),RAW,,345,CA,
 271126,Cassie,Sferra,The Ohio State University,Women - 72kg (158.7lbs),RAW,,342.5,OH,
-223049,Tess,Willis,UTSA,Women - 72kg (158.7lbs),RAW,,342.5,TX,
-904060,Netanya,Garcia,University of Houston,Women - 72kg (158.7lbs),RAW,,335,TX,
-3345,Marina,Parsons,Temple University,Women - 72kg (158.7lbs),RAW,,335,PA,
-816161,Hailee,Hart,Umass Amherst,Women - 72kg (158.7lbs),RAW,,335,MA,
-720776,Kathrine,Latter,Pennsylvania State University,Women - 72kg (158.7lbs),RAW,,332.5,PA,
-518539,Kavya,Katugam,Pennsylvania State University,Women - 72kg (158.7lbs),RAW,,325,MA,Important Links
-509319,Gretchen,Bricker,University of Nebraska-Lincoln,Women - 72kg (158.7lbs),RAW,,325,NE,Team Entry
-225241,Xena,Amirani,USC,Women - 72kg (158.7lbs),RAW,,317.5,CA,Team Roster Submission (No Roster Until Team Entry is Paid)
-902133,Mary,Trabue,Ohio State University,Women - 72kg (158.7lbs),RAW,,317.5,OH,Change Request Form
-113945,Alex,Adams,University of Illinois Chicago,Women - 72kg (158.7lbs),RAW,,312.5,IL,Individual Entry Form
-29597,Emily,Serbinowski,Toledo College of Medicine,Women - 72kg (158.7lbs),RAW,,310,OH,Referee Sign-up Form
-835006,Alexandra,Ziepke,Louisiana Tech University,Women - 72kg (158.7lbs),RAW,,310,LA,Current Roster
-500557,Abigal,Smrz,UW Stevens Point,Women - 72kg (158.7lbs),RAW,,310,WI,Schedule Update - New
-817629,Sara,Barron,Texas at Arlington,Women - 72kg (158.7lbs),RAW,,307.5,TX,Coaches Pass - New
-232263,Diana,Gong,USC,Women - 72kg (158.7lbs),RAW,,307.5,CA,Academic Eligibility Form - New
+904060,Netanya,Garcia,University of Houston,Women - 72kg (158.7lbs),RAW,,335,TX,Important Links
+3345,Marina,Parsons,Temple University,Women - 72kg (158.7lbs),RAW,,335,PA,Team Entry
+816161,Hailee,Hart,Umass Amherst,Women - 72kg (158.7lbs),RAW,,335,MA,Team Roster Submission (No Roster Until Team Entry is Paid)
+720776,Kathrine,Latter,Pennsylvania State University,Women - 72kg (158.7lbs),RAW,,332.5,PA,Change Request Form
+518539,Kavya,Katugam,Pennsylvania State University,Women - 72kg (158.7lbs),RAW,,325,MA,Individual Entry Form
+509319,Gretchen,Bricker,University of Nebraska-Lincoln,Women - 72kg (158.7lbs),RAW,,325,NE,Referee Sign-up Form
+225241,Xena,Amirani,USC,Women - 72kg (158.7lbs),RAW,,317.5,CA,Current Roster
+902133,Mary,Trabue,Ohio State University,Women - 72kg (158.7lbs),RAW,,317.5,OH,Schedule Update - New
+113945,Alex,Adams,University of Illinois Chicago,Women - 72kg (158.7lbs),RAW,,312.5,IL,Coaches Pass - New
+29597,Emily,Serbinowski,Toledo College of Medicine,Women - 72kg (158.7lbs),RAW,,310,OH,Academic Eligibility Form - New
+835006,Alexandra,Ziepke,Louisiana Tech University,Women - 72kg (158.7lbs),RAW,,310,LA,
+500557,Abigal,Smrz,UW Stevens Point,Women - 72kg (158.7lbs),RAW,,310,WI,
+817629,Sara,Barron,Texas at Arlington,Women - 72kg (158.7lbs),RAW,,307.5,TX,
+232263,Diana,Gong,USC,Women - 72kg (158.7lbs),RAW,,307.5,CA,
 823778,Theresa,Moreci,University of Wisconsin-Milwak,Women - 72kg (158.7lbs),RAW,,305,WI,
+118239,cindy,Vazquez,Ottawa University,Women - 72kg (158.7lbs),RAW,,305,CA,
 288897,Alyson,Baldwin,Marquette University,Women - 72kg (158.7lbs),RAW,,302.5,WI,
+70815,Charisma,Tante,University of Texas at Austin,Women - 72kg (158.7lbs),RAW,,302.5,TX,
 888390,madison,cole WD,George Mason University,Women - 72kg (158.7lbs),RAW,,300,VA,
 534649,Kayla,Bartram,Rutgers University,Women - 72kg (158.7lbs),RAW,,292.5,NJ,
 904131,Melissa,Parker,University of Pennsylvania,Women - 72kg (158.7lbs),RAW,,290,PA,
 291390,Katie,Manzano,Rutgers University,Women - 72kg (158.7lbs),RAW,,285,NJ,
-461059,Jaime,Hacinas WD,VCU,Women - 72kg (158.7lbs),RAW,,285,VA,
-893280,Abigail,Hunt,University of Pittsburgh,Women - 72kg (158.7lbs),RAW,,282.5,PA,
-266934,Ana,Beasley,George Mason University,Women - 72kg (158.7lbs),RAW,,282.5,VA,
-707197,Charissa,Vallesteros,University of Hawaii at Manoa,Women - 72kg (158.7lbs),RAW,,282.5,HI,
-466156,Jennifer,Hofmann,University of Massachusetts,Women - 72kg (158.7lbs),RAW,,282.5,NJ,
-860574,Sara,Biddle,Furman University,Women - 72kg (158.7lbs),RAW,,282.5,GA,Important Links
-44409,Lizeth,Gonzalez,Purdue University,Women - 72kg (158.7lbs),RAW,,282.5,IN,Team Entry
-840705,Liza,Buschinski,Penn State,Women - 72kg (158.7lbs),RAW,,0,PA,Team Roster Submission (No Roster Until Team Entry is Paid)
-349597,Amy,Renne,Stevens Institute of Tech,Women - 72kg (158.7lbs),RAW,,0,NJ,Change Request Form
-902084,Leann,Ramirez,UTSA,Women - 84kg (185.1lbs),EQUIPPED,,603,TX,Individual Entry Form
-75791,Marissa,Lutz,Midland University,Women - 84kg (185.1lbs),EQUIPPED,,532.5,TX,Referee Sign-up Form
-652859,Taysia,Coleman,Louisiana State University,Women - 84kg (185.1lbs),EQUIPPED,,482.5,LA,Current Roster
-355012,Jessica,Trammel,Louisiana State University,Women - 84kg (185.1lbs),EQUIPPED,,437.5,LA,Schedule Update - New
-852959,Layla,Carrisalez,Angelo State University,Women - 84kg (185.1lbs),EQUIPPED,,435,TX,Coaches Pass - New
-69677,Emily,Espinoza,Sam Houston State University,Women - 84kg (185.1lbs),EQUIPPED,,430,TX,Academic Eligibility Form - New
+461059,Jaime,Hacinas WD,VCU,Women - 72kg (158.7lbs),RAW,,285,VA,Important Links
+993894,Mariah,Hawley,UW- Eau Claire,Women - 72kg (158.7lbs),RAW,,283.5,WI,Team Entry
+893280,Abigail,Hunt,University of Pittsburgh,Women - 72kg (158.7lbs),RAW,,282.5,PA,Team Roster Submission (No Roster Until Team Entry is Paid)
+266934,Ana,Beasley,George Mason University,Women - 72kg (158.7lbs),RAW,,282.5,VA,Change Request Form
+707197,Charissa,Vallesteros,University of Hawaii at Manoa,Women - 72kg (158.7lbs),RAW,,282.5,HI,Individual Entry Form
+466156,Jennifer,Hofmann,University of Massachusetts,Women - 72kg (158.7lbs),RAW,,282.5,NJ,Referee Sign-up Form
+860574,Sara,Biddle,Furman University,Women - 72kg (158.7lbs),RAW,,282.5,GA,Current Roster
+44409,Lizeth,Gonzalez,Purdue University,Women - 72kg (158.7lbs),RAW,,282.5,IN,Schedule Update - New
+840705,Liza,Buschinski,Penn State,Women - 72kg (158.7lbs),RAW,,0,PA,Coaches Pass - New
+349597,Amy,Renne,Stevens Institute of Tech,Women - 72kg (158.7lbs),RAW,,0,NJ,Academic Eligibility Form - New
+902084,Leann,Ramirez,UTSA,Women - 84kg (185.1lbs),EQUIPPED,,603,TX,
+75791,Marissa,Lutz,Midland University,Women - 84kg (185.1lbs),EQUIPPED,,532.5,TX,
+652859,Taysia,Coleman,Louisiana State University,Women - 84kg (185.1lbs),EQUIPPED,,482.5,LA,
+535225,Cassidy,Estrada,Texas A&M University,Women - 84kg (185.1lbs),EQUIPPED,,455,TX,
+355012,Jessica,Trammel,Louisiana State University,Women - 84kg (185.1lbs),EQUIPPED,,437.5,LA,
+852959,Layla,Carrisalez,Angelo State University,Women - 84kg (185.1lbs),EQUIPPED,,435,TX,
+69677,Emily,Espinoza,Sam Houston State University,Women - 84kg (185.1lbs),EQUIPPED,,430,TX,
 371843,Elizabeth,Harris,Ursinus College,Women - 84kg (185.1lbs),EQUIPPED,,427.5,PA,
 767794,Marina,Sapeta,University of Rhode Island,Women - 84kg (185.1lbs),EQUIPPED,,402.5,NY,
 490082,Emily,St. Germain,UL Lafayette,Women - 84kg (185.1lbs),EQUIPPED,,400,LA,
 622984,holly,necaise,UL Lafayette,Women - 84kg (185.1lbs),EQUIPPED,,377.5,LA,
-854168,Sara,DeMattie,Louisiana Tech University,Women - 84kg (185.1lbs),EQUIPPED,,374,LA,
-949603,Sa'mya,Wallace,University of Texas at Austin,Women - 84kg (185.1lbs),EQUIPPED,,350,TX,
-52641,Abigail,Richards,Louisiana State University,Women - 84kg (185.1lbs),EQUIPPED,,347.5,LA,
-194685,Lauren,Flynn,Northeastern University,Women - 84kg (185.1lbs),EQUIPPED,,332.5,MA,
-373504,Cailey,Cole,UL Lafayette,Women - 84kg (185.1lbs),EQUIPPED,,330,LA,
-343691,Geri,Fredrickson,Midland University,Women - 84kg (185.1lbs),EQUIPPED,,322.5,WI,
-903837,Emilie,Hardel,Northeastern University,Women - 84kg (185.1lbs),EQUIPPED,,0,CT,
-922208,Jessica,Kinney,University of Wisconsin-Madiso,Women - 84kg (185.1lbs),RAW,,445,WI,
+920657,Julia,Spinelli,Northeastern University,Women - 84kg (185.1lbs),EQUIPPED,,375,CT,Important Links
+854168,Sara,DeMattie,Louisiana Tech University,Women - 84kg (185.1lbs),EQUIPPED,,374,LA,Team Entry
+949603,Sa'mya,Wallace,University of Texas at Austin,Women - 84kg (185.1lbs),EQUIPPED,,350,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
+52641,Abigail,Richards,Louisiana State University,Women - 84kg (185.1lbs),EQUIPPED,,347.5,LA,Change Request Form
+548319,Emily,Jedrzejczak,United States Naval Academy,Women - 84kg (185.1lbs),EQUIPPED,,347.5,MD,Individual Entry Form
+194685,Lauren,Flynn,Northeastern University,Women - 84kg (185.1lbs),EQUIPPED,,332.5,MA,Referee Sign-up Form
+373504,Cailey,Cole,UL Lafayette,Women - 84kg (185.1lbs),EQUIPPED,,330,LA,Current Roster
+343691,Geri,Fredrickson,Midland University,Women - 84kg (185.1lbs),EQUIPPED,,322.5,WI,Schedule Update - New
+903837,Emilie,Hardel,Northeastern University,Women - 84kg (185.1lbs),EQUIPPED,,0,CT,Coaches Pass - New
+922208,Jessica,Kinney,University of Wisconsin-Madiso,Women - 84kg (185.1lbs),RAW,,445,WI,Academic Eligibility Form - New
 983157,Paige,Conklin,Rutgers University,Women - 84kg (185.1lbs),RAW,,443,NJ,
 774765,Alexis,Gebbia,Boston University,Women - 84kg (185.1lbs),RAW,,437.5,MA,
 610902,Autumn,Cernohous,UW-Eau Claire,Women - 84kg (185.1lbs),RAW,,410,WI,
-90356,Morgan,Gilliam,Midland University,Women - 84kg (185.1lbs),RAW,,392.5,MI,Important Links
-844023,Avery,McCauley,The Ohio State University,Women - 84kg (185.1lbs),RAW,,387.5,OH,Team Entry
-687395,Fre'Dasia,Daniels,University of North Texas,Women - 84kg (185.1lbs),RAW,,382.5,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
-319293,Ronna Mae,Pidut,UCLA,Women - 84kg (185.1lbs),RAW,,382.5,CA,Change Request Form
-829374,Katie,McNulty,UW-Eau Claire,Women - 84kg (185.1lbs),RAW,,377.5,WI,Individual Entry Form
-529055,Patricia,McAllister,New York Medical College,Women - 84kg (185.1lbs),RAW,,375,NY,Referee Sign-up Form
-295557,Madison,Rivero,The Ohio State University,Women - 84kg (185.1lbs),RAW,,372.5,VA,Current Roster
-715789,Alexzandriea,van Hoekelen,Florida Tech,Women - 84kg (185.1lbs),RAW,,370,FL,Schedule Update - New
-94385,Jacqueline,Walker,Fayetteville State University,Women - 84kg (185.1lbs),RAW,,367.5,NC,Coaches Pass - New
-145389,Analisa,Narro,UTSA,Women - 84kg (185.1lbs),RAW,,360,TX,Academic Eligibility Form - New
-278877,Abbie,Perault,University of Nebraska-Lincoln,Women - 84kg (185.1lbs),RAW,,357.5,NE,
-578304,Tori,Pfeifer,Missouri Valley College,Women - 84kg (185.1lbs),RAW,,355,MO,
-206111,Brenna,Zuehlke,University of Minnesota,Women - 84kg (185.1lbs),RAW,,352.5,MN,
-681122,Mikah,Ward,University of North Texas,Women - 84kg (185.1lbs),RAW,,352.5,TX,
-402143,Dana,Bloomfield,Pennsylvania State University,Women - 84kg (185.1lbs),RAW,,342.5,PA,
-209838,Maria,Baltazar,Marquette University,Women - 84kg (185.1lbs),RAW,,340,WI,
+90356,Morgan,Gilliam,Midland University,Women - 84kg (185.1lbs),RAW,,392.5,MI,
+844023,Avery,McCauley,The Ohio State University,Women - 84kg (185.1lbs),RAW,,387.5,OH,
+687395,Fre'Dasia,Daniels,University of North Texas,Women - 84kg (185.1lbs),RAW,,382.5,TX,
+319293,Ronna Mae,Pidut,UCLA,Women - 84kg (185.1lbs),RAW,,382.5,CA,
+829374,Katie,McNulty,UW-Eau Claire,Women - 84kg (185.1lbs),RAW,,377.5,WI,
+529055,Patricia,McAllister,New York Medical College,Women - 84kg (185.1lbs),RAW,,375,NY,
+295557,Madison,Rivero,The Ohio State University,Women - 84kg (185.1lbs),RAW,,372.5,VA,
+715789,Alexzandriea,van Hoekelen,Florida Tech,Women - 84kg (185.1lbs),RAW,,370,FL,
+241507,Britney,George,Ottawa University,Women - 84kg (185.1lbs),RAW,,370,KS,
+94385,Jacqueline,Walker,Fayetteville State University,Women - 84kg (185.1lbs),RAW,,367.5,NC,
+303981,Beatriz,Oliva,"University of Colorado, Denver",Women - 84kg (185.1lbs),RAW,,365,CO,
+145389,Analisa,Narro,UTSA,Women - 84kg (185.1lbs),RAW,,360,TX,Important Links
+278877,Abbie,Perault,University of Nebraska-Lincoln,Women - 84kg (185.1lbs),RAW,,357.5,NE,Team Entry
+578304,Tori,Pfeifer,Missouri Valley College,Women - 84kg (185.1lbs),RAW,,355,MO,Team Roster Submission (No Roster Until Team Entry is Paid)
+345190,Sara,Shelton,Florida Gulf Coast University,Women - 84kg (185.1lbs),RAW,,355,FL,Change Request Form
+206111,Brenna,Zuehlke,University of Minnesota,Women - 84kg (185.1lbs),RAW,,352.5,MN,Individual Entry Form
+681122,Mikah,Ward,University of North Texas,Women - 84kg (185.1lbs),RAW,,352.5,TX,Referee Sign-up Form
+809631,Katie,MARTIN,Ottawa University,Women - 84kg (185.1lbs),RAW,,347.5,KS,Current Roster
+402143,Dana,Bloomfield,Pennsylvania State University,Women - 84kg (185.1lbs),RAW,,342.5,PA,Schedule Update - New
+223049,Tess,Willis,UTSA,Women - 84kg (185.1lbs),RAW,,342.5,TX,Coaches Pass - New
+209838,Maria,Baltazar,Marquette University,Women - 84kg (185.1lbs),RAW,,340,WI,Academic Eligibility Form - New
 419386,Anna,Summers,Missouri Valley College,Women - 84kg (185.1lbs),RAW,,335,MO,
 787061,Abigail,Davis,Arizona State University,Women - 84kg (185.1lbs),RAW,,335,AZ,
 946074,Allison,Nally,Missouri Valley College,Women - 84kg (185.1lbs),RAW,,332.5,MO,
+973530,"Tolulope ""Damilola""",Olabinjo,University of Texas at Austin,Women - 84kg (185.1lbs),RAW,,330,TX,
+480480,Kelsey,Jackson,UW-Milwaukee,Women - 84kg (185.1lbs),RAW,,330,WI,
 514027,Gianna,Mule,Rochester Institute of Technol,Women - 84kg (185.1lbs),RAW,,327.5,NY,
 937384,Talia,Hutchings,Missouri Valley College,Women - 84kg (185.1lbs),RAW,,320,MO,
 144308,Haylee,Womer,Pennsylvania State University,Women - 84kg (185.1lbs),RAW,,317.5,MD,
-78594,Maia,Hadeed,FIU,Women - 84kg (185.1lbs),RAW,,315,FL,Important Links
-555245,Kalina,Kinzel,UW-Madison,Women - 84kg (185.1lbs),RAW,,315,WI,Team Entry
-778876,Alexandria,Dodds,Midland University,Women - 84kg (185.1lbs),RAW,,312.5,FL,Team Roster Submission (No Roster Until Team Entry is Paid)
-763208,Brianna,Manzo,Rutgers University,Women - 84kg (185.1lbs),RAW,,302.5,NJ,Change Request Form
-862723,Alexis,Birkett,UW-Madison,Women - 84kg (185.1lbs),RAW,,300,WI,Individual Entry Form
-495075,Ka Po,Siu,UIC,Women - 84kg (185.1lbs),RAW,,295,IL,Referee Sign-up Form
-339423,Shannon,Racz,University of Rhode Island,Women - 84kg (185.1lbs),RAW,,292.5,CT,Current Roster
-719206,Kelly,Asselin,Pennsylvania State University,Women - 84kg (185.1lbs),RAW,,287.5,PA,Schedule Update - New
-487868,Brandi,Hambly,Penn State University,Women - 84kg (185.1lbs),RAW,,287.5,PA,Coaches Pass - New
-153650,Aislyn,Turner,Liberty University,Women - 84kg (185.1lbs),RAW,,285,VA,Academic Eligibility Form - New
-649288,Montana,Phipps,University of Massachusetts,Women - 84kg (185.1lbs),RAW,,285,MA,
-863623,Catherine,Harrison,University of Houston,Women - 84kg (185.1lbs),RAW,,282.5,TX,
-871528,Rees,Dunn,Louisiana State University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,EQUIPPED,738,LA,
+78594,Maia,Hadeed,FIU,Women - 84kg (185.1lbs),RAW,,315,FL,
+555245,Kalina,Kinzel,UW-Madison,Women - 84kg (185.1lbs),RAW,,315,WI,
+778876,Alexandria,Dodds,Midland University,Women - 84kg (185.1lbs),RAW,,312.5,FL,
+46472,Jeni,Laha,Ottawa University,Women - 84kg (185.1lbs),RAW,,307.5,KS,
+763208,Brianna,Manzo,Rutgers University,Women - 84kg (185.1lbs),RAW,,302.5,NJ,
+862723,Alexis,Birkett,UW-Madison,Women - 84kg (185.1lbs),RAW,,300,WI,Important Links
+495075,Ka Po,Siu,UIC,Women - 84kg (185.1lbs),RAW,,295,IL,Team Entry
+339423,Shannon,Racz,University of Rhode Island,Women - 84kg (185.1lbs),RAW,,292.5,CT,Team Roster Submission (No Roster Until Team Entry is Paid)
+719206,Kelly,Asselin,Pennsylvania State University,Women - 84kg (185.1lbs),RAW,,287.5,PA,Change Request Form
+487868,Brandi,Hambly,Penn State University,Women - 84kg (185.1lbs),RAW,,287.5,PA,Individual Entry Form
+153650,Aislyn,Turner,Liberty University,Women - 84kg (185.1lbs),RAW,,285,VA,Referee Sign-up Form
+649288,Montana,Phipps,University of Massachusetts,Women - 84kg (185.1lbs),RAW,,285,MA,Current Roster
+863623,Catherine,Harrison,University of Houston,Women - 84kg (185.1lbs),RAW,,282.5,TX,Schedule Update - New
+852246,Maya,Kulick,Washington University,Women - 84kg (185.1lbs),RAW,,282.5,MO,Coaches Pass - New
+871528,Rees,Dunn,Louisiana State University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,EQUIPPED,738,LA,Academic Eligibility Form - New
 ,Lilliana,Poisso,Louisiana Tech University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,632.5,LA,
 690486,Brittany,Bond,Midland University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,525,AK,
 281262,Hannah,Jett,Sam Houston State University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,515,TX,
 532517,Margaret,Dittman,UL Lafayette,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,475,LA,
 288285,Madisyn Herron,Herron,Blue Mountain College,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,470,MS,
+50451,Keirstyn,Catron,Sam Houston State University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,470,TX,
 429933,Christina,Peterson,UTSA,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,460,TX,
 121259,Yesenia,Martinez,Midland University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,455,TX,
+726291,Audrey,Friedman,Northeastern University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,422.5,MA,
 474672,Hailey,Jacobs,Louisiana Tech University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,372.5,TX,
-524837,Rosemarie,Colley,Louisiana Tech University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,332.5,LA,Important Links
-633868,Raphaela,Mettig,Louisiana State University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,0,LA,Team Entry
-586259,Bailee,Ozbirn,Louisiana State University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,0,MS,Team Roster Submission (No Roster Until Team Entry is Paid)
-107663,Amanda,Martin,S.T.C.C,Women - Over 84kg (Over 185.1lbs),RAW,,570,MA,Change Request Form
-466491,Brenda,Sanchez,University of North Texas,Women - Over 84kg (Over 185.1lbs),RAW,,500,TX,Individual Entry Form
-697149,Lindsay,Dziedzic,Canisius College,Women - Over 84kg (Over 185.1lbs),RAW,,492.5,NY,Referee Sign-up Form
-566184,Abbie,Leschinsky,UNL,Women - Over 84kg (Over 185.1lbs),RAW,,470,NE,Current Roster
-818524,Makenna,Henderson,Midland University,Women - Over 84kg (Over 185.1lbs),RAW,,450,TX,Schedule Update - New
-260996,Nicole,Umeweni,Temple University,Women - Over 84kg (Over 185.1lbs),RAW,,447.5,PA,Coaches Pass - New
-129639,Lendie,Nolting,Missouri Valley College,Women - Over 84kg (Over 185.1lbs),RAW,,427.5,MO,Academic Eligibility Form - New
-401655,Ariana,Aranda,UW - Platteville,Women - Over 84kg (Over 185.1lbs),RAW,,420,WI,
+539813,Anna,Mueller,Northeastern University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,347.5,MN,
+524837,Rosemarie,Colley,Louisiana Tech University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,332.5,LA,
+633868,Raphaela,Mettig,Louisiana State University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,0,LA,
+586259,Bailee,Ozbirn,Louisiana State University,Women - Over 84kg (Over 185.1lbs),EQUIPPED,,0,MS,Important Links
+107663,Amanda,Martin,S.T.C.C,Women - Over 84kg (Over 185.1lbs),RAW,,570,MA,Team Entry
+466491,Brenda,Sanchez,University of North Texas,Women - Over 84kg (Over 185.1lbs),RAW,,500,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
+697149,Lindsay,Dziedzic,Canisius College,Women - Over 84kg (Over 185.1lbs),RAW,,492.5,NY,Change Request Form
+566184,Abbie,Leschinsky,UNL,Women - Over 84kg (Over 185.1lbs),RAW,,470,NE,Individual Entry Form
+818524,Makenna,Henderson,Midland University,Women - Over 84kg (Over 185.1lbs),RAW,,450,TX,Referee Sign-up Form
+260996,Nicole,Umeweni,Temple University,Women - Over 84kg (Over 185.1lbs),RAW,,447.5,PA,Current Roster
+983208,Bryanna,Houser,Ottawa University,Women - Over 84kg (Over 185.1lbs),RAW,,437.5,TX,Schedule Update - New
+129639,Lendie,Nolting,Missouri Valley College,Women - Over 84kg (Over 185.1lbs),RAW,,427.5,MO,Coaches Pass - New
+401655,Ariana,Aranda,UW - Platteville,Women - Over 84kg (Over 185.1lbs),RAW,,420,WI,Academic Eligibility Form - New
+381622,Andrea,Beasley,Ottawa University,Women - Over 84kg (Over 185.1lbs),RAW,,415,TX,
 453439,Brooke,Conley,The Ohio State University,Women - Over 84kg (Over 185.1lbs),RAW,,412.5,OH,
 538969,Sophia,Bales,Missouri Valley College,Women - Over 84kg (Over 185.1lbs),RAW,,405,MO,
+770256,Jaqui,Carey,Ottawa University,Women - Over 84kg (Over 185.1lbs),RAW,,400,KS,
 6433,Kylie,Matticks,University of North Texas,Women - Over 84kg (Over 185.1lbs),RAW,,395,TX,
 451027,Makayla,Mattson,University of Wisconsin- Eau C,Women - Over 84kg (Over 185.1lbs),RAW,,392.5,WI,
 761551,Marcel,Tumer,University of Houston,Women - Over 84kg (Over 185.1lbs),RAW,,380,TX,
@@ -292,63 +363,74 @@ Lifter ID,First Name,Last Name,University Represented,Weight Class,Primary Divis
 516951,Elisabeth,Juechser,Princeton University,Women - Over 84kg (Over 185.1lbs),RAW,,360,PA,
 798750,alayna,rzempoluch,Penn State,Women - Over 84kg (Over 185.1lbs),RAW,,350,PA,
 652787,Kayla,Morrow,George Mason University,Women - Over 84kg (Over 185.1lbs),RAW,,345,VA,
-883616,Natalie,Stewart,Louisiana Tech University,Women - Over 84kg (Over 185.1lbs),RAW,,326.587,LA,
-567772,Alexandra,Sanders,Louisiana Tech University,Women - Over 84kg (Over 185.1lbs),RAW,,315.247,LA,Important Links
-363331,Morgan,Worley,Friends University,Women - Over 84kg (Over 185.1lbs),RAW,,310,OK,Team Entry
-923678,Alexis,Rodriguez,Sam Houston State University,Women - Over 84kg (Over 185.1lbs),RAW,,275,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
-779631,Grace,Groh,Sam Houston State University,Women - Over 84kg (Over 185.1lbs),RAW,,272.16,TX,Change Request Form
-757211,Andy,Bui,UL Lafayette,Men - 53kg (116.8lbs),EQUIPPED,,"457,5",LA,Individual Entry Form
-769014,Chris,Medina Jr.,UTSA,Men - 53kg (116.8lbs),EQUIPPED,,452.5,TX,Referee Sign-up Form
-41433,Samuel,Senegal II,UL Lafayette,Men - 53kg (116.8lbs),EQUIPPED,,0,LA,Current Roster
-39240,Ryan,Handel,Brown University,Men - 53kg (116.8lbs),RAW,,362.5,MD,Schedule Update - New
-661740,Alec Anthony,DeJesus,UIC,Men - 53kg (116.8lbs),RAW,,325,IL,Coaches Pass - New
-804749,Walter,Carrillo,University of New England,Men - 53kg (116.8lbs),RAW,RAW,322.5,MA,Academic Eligibility Form - New
+883616,Natalie,Stewart,Louisiana Tech University,Women - Over 84kg (Over 185.1lbs),RAW,,326.587,LA,Important Links
+567772,Alexandra,Sanders,Louisiana Tech University,Women - Over 84kg (Over 185.1lbs),RAW,,315.247,LA,Team Entry
+363331,Morgan,Worley,Friends University,Women - Over 84kg (Over 185.1lbs),RAW,,310,OK,Team Roster Submission (No Roster Until Team Entry is Paid)
+65693,Kaitlin,Artac,UW-Eau Claire,Women - Over 84kg (Over 185.1lbs),RAW,,302.5,WI,Change Request Form
+627367,Bailey,Dulas,Texas A&M University,Women - Over 84kg (Over 185.1lbs),RAW,,295,TX,Individual Entry Form
+896379,elisa,millis,UW Milwaukee,Women - Over 84kg (Over 185.1lbs),RAW,,280,WI,Referee Sign-up Form
+923678,Alexis,Rodriguez,Sam Houston State University,Women - Over 84kg (Over 185.1lbs),RAW,,275,TX,Current Roster
+779631,Grace,Groh,Sam Houston State University,Women - Over 84kg (Over 185.1lbs),RAW,,272.16,TX,Schedule Update - New
+757211,Andy,Bui,UL Lafayette,Men - 53kg (116.8lbs),EQUIPPED,,"457,5",LA,Coaches Pass - New
+769014,Chris,Medina Jr.,UTSA,Men - 53kg (116.8lbs),EQUIPPED,,452.5,TX,Academic Eligibility Form - New
+924925,Timori,Shipley,UL Lafayette,Men - 53kg (116.8lbs),EQUIPPED,,435,LA,
+41433,Samuel,Senegal II,UL Lafayette,Men - 53kg (116.8lbs),EQUIPPED,,0,LA,
+39240,Ryan,Handel,Brown University,Men - 53kg (116.8lbs),RAW,,362.5,MD,
+926911,Diamond,Chau,University of Texas at Austin,Men - 53kg (116.8lbs),RAW,,347.5,TX,
+661740,Alec Anthony,DeJesus,UIC,Men - 53kg (116.8lbs),RAW,,325,IL,
+804749,Walter,Carrillo,University of New England,Men - 53kg (116.8lbs),RAW,RAW,322.5,MA,
 388040,Roberto,Saenz,Midland University,Men - 59kg (130.0lbs),EQUIPPED,,625,TX,
 472443,Joseph,Kelley,UTSA,Men - 59kg (130.0lbs),EQUIPPED,,608,TX,
 483943,Daniel,Baez,University of Rhode Island,Men - 59kg (130.0lbs),EQUIPPED,,505,NJ,
 422365,Trevor,Carmona,University of Texas at Austin,Men - 59kg (130.0lbs),EQUIPPED,,472.5,TX,
 369047,Davion,Aldridge,UTSA,Men - 59kg (130.0lbs),EQUIPPED,,445,TX,
-924925,Timori,Shipley,UL Lafayette,Men - 59kg (130.0lbs),EQUIPPED,,435,LA,
 354636,Cordarius,Harris,Blue Mountain College,Men - 59kg (130.0lbs),EQUIPPED,,430,MS,
 649549,Zavier,Wilson,Louisiana State University,Men - 59kg (130.0lbs),EQUIPPED,,0,LA,
 173705,Emmet,Metzger,McKendree University,Men - 59kg (130.0lbs),RAW,,550,IL,
 721925,Tyler,Harris,Texas State University,Men - 59kg (130.0lbs),RAW,,497.5,TX,
 526153,Bryce,Paszkiewicz,McKendree University,Men - 59kg (130.0lbs),RAW,,482.5,IL,
-39302,Jaylen,Boyd,Mississippi State University,Men - 59kg (130.0lbs),RAW,,470,MS,
-647484,Dallas,Hopping,Missouri Valley College,Men - 59kg (130.0lbs),RAW,,457.5,MO,
-623233,Anthony,Morales,University of Texas at Austin,Men - 59kg (130.0lbs),RAW,,440,TX,Important Links
-686111,Ryan,Tran,UIC,Men - 59kg (130.0lbs),RAW,,412.5,IL,Team Entry
-448699,Braxton,Dilworth,University of Minnesota - TC,Men - 59kg (130.0lbs),RAW,,387.5,MN,Team Roster Submission (No Roster Until Team Entry is Paid)
-596608,Rohin,Bhushan,Brown University,Men - 59kg (130.0lbs),RAW,,387.5,CA,Change Request Form
-393761,Ethan,Angud,Rutgers University,Men - 59kg (130.0lbs),RAW,,0,NJ,Individual Entry Form
-885874,Yash,Pednekar,University of Maryland,Men - 59kg (130.0lbs),RAW,,0,MD,Referee Sign-up Form
-874710,Brandon,Kim,University of Texas at Austin,Men - 59kg (130.0lbs),RAW,,0,TX,Current Roster
-935538,Logan,Pennington,Louisiana Tech University,Men - 66kg (145.5lbs),EQUIPPED,,1350,LA,Schedule Update - New
-613929,Marcos,Chavez,UTSA,Men - 66kg (145.5lbs),EQUIPPED,,622.5,TX,Coaches Pass - New
-743147,Grayson,Brown,Louisiana Tech,Men - 66kg (145.5lbs),EQUIPPED,,612.5,TX,Academic Eligibility Form - New
+39302,Jaylen,Boyd,Mississippi State University,Men - 59kg (130.0lbs),RAW,,470,MS,Important Links
+647484,Dallas,Hopping,Missouri Valley College,Men - 59kg (130.0lbs),RAW,,457.5,MO,Team Entry
+623233,Anthony,Morales,University of Texas at Austin,Men - 59kg (130.0lbs),RAW,,440,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
+686111,Ryan,Tran,UIC,Men - 59kg (130.0lbs),RAW,,412.5,IL,Change Request Form
+448699,Braxton,Dilworth,University of Minnesota - TC,Men - 59kg (130.0lbs),RAW,,387.5,MN,Individual Entry Form
+596608,Rohin,Bhushan,Brown University,Men - 59kg (130.0lbs),RAW,,387.5,CA,Referee Sign-up Form
+264537,Carson,Merket,Texas A&M University,Men - 59kg (130.0lbs),RAW,,360,TX,Current Roster
+393761,Ethan,Angud,Rutgers University,Men - 59kg (130.0lbs),RAW,,0,NJ,Schedule Update - New
+885874,Yash,Pednekar,University of Maryland,Men - 59kg (130.0lbs),RAW,,0,MD,Coaches Pass - New
+874710,Brandon,Kim,University of Texas at Austin,Men - 59kg (130.0lbs),RAW,,0,TX,Academic Eligibility Form - New
+935538,Logan,Pennington,Louisiana Tech University,Men - 66kg (145.5lbs),EQUIPPED,,1350,LA,
+613929,Marcos,Chavez,UTSA,Men - 66kg (145.5lbs),EQUIPPED,,622.5,TX,
+505317,Justin,Lovelace,Texas A&M University,Men - 66kg (145.5lbs),EQUIPPED,,620,TX,
+743147,Grayson,Brown,Louisiana Tech,Men - 66kg (145.5lbs),EQUIPPED,,612.5,TX,
 867097,Jordan,Robbins,University of Texas at Austin,Men - 66kg (145.5lbs),EQUIPPED,,592.5,TX,
+291423,Noel,Ybarra,University of Texas at Austin,Men - 66kg (145.5lbs),EQUIPPED,,592.5,TX,
 991860,Jake,Hebert,UL Lafayette,Men - 66kg (145.5lbs),EQUIPPED,,565,LA,
 763917,Adrian,Campos,UTSA,Men - 66kg (145.5lbs),EQUIPPED,,555,TX,
 827110,Joshua,Valenzuela,UTSA,Men - 66kg (145.5lbs),EQUIPPED,,545,TX,
 195669,Jonathan Hayes,Hayes,Blue Mountain College,Men - 66kg (145.5lbs),EQUIPPED,,530,MS,
+518932,Jesus,Rosillo III,Sam Houston State University,Men - 66kg (145.5lbs),EQUIPPED,,492.5,TX,
 138079,Jaylen,Montgomery,Angelo State University,Men - 66kg (145.5lbs),EQUIPPED,,475,TX,
 440505,khoa,bui,Louisiana State University,Men - 66kg (145.5lbs),EQUIPPED,,467.5,LA,
+446592,David,Parmer,Texas A&M University,Men - 66kg (145.5lbs),EQUIPPED,,460,TX,
 765538,Nick Pridmore,Pridmore,Blue Mountain College,Men - 66kg (145.5lbs),EQUIPPED,,0,MS,
 499883,CHRISTOPHER,LAMBERT,Louisiana State University,Men - 66kg (145.5lbs),EQUIPPED,,0,MS,
 414954,cyrus,yongbanthom,ECTC,Men - 66kg (145.5lbs),RAW,,TBD,KY,
-951026,Kole,Metts,Midland university,Men - 66kg (145.5lbs),RAW,,602.5,GA,
-298782,Christian,Maldonado,Oklahoma State University,Men - 66kg (145.5lbs),RAW,,587.5,OK,
-825289,Henry,Diers,Midland University,Men - 66kg (145.5lbs),RAW,,572.5,NE,
-589952,Syed,Hashmi,Brooklyn College,Men - 66kg (145.5lbs),RAW,,560,NY,Important Links
-458977,Michael,Casillas,Texas State University,Men - 66kg (145.5lbs),RAW,,560,TX,Team Entry
-771962,Allen,Zou,College of the Holy Cross,Men - 66kg (145.5lbs),RAW,,560,MA,Team Roster Submission (No Roster Until Team Entry is Paid)
-219622,Brian,Raymond,UCLA,Men - 66kg (145.5lbs),RAW,,555,CA,Change Request Form
-308628,Elijah,Morrison,University of Pittsburgh,Men - 66kg (145.5lbs),RAW,,552.5,PA,Individual Entry Form
-519230,Nathan,Yu,Rutgers University,Men - 66kg (145.5lbs),RAW,,525,NJ,Referee Sign-up Form
-321694,Erik,Hogan,Springfield College,Men - 66kg (145.5lbs),RAW,,522.5,ME,Current Roster
-888473,Julio,Tinoco,Missouri Valley College,Men - 66kg (145.5lbs),RAW,,515,MO,Schedule Update - New
-278714,Jack,Tran,Rutgers University–Camden,Men - 66kg (145.5lbs),RAW,,500,NJ,Coaches Pass - New
-356691,Rahul,Malhotra,Rutgers University,Men - 66kg (145.5lbs),RAW,,500,NJ,Academic Eligibility Form - New
+31216,Tyler,Marcel,Prairie View A&M University,Men - 66kg (145.5lbs),RAW,,642.5,TX,
+951026,Kole,Metts,Midland university,Men - 66kg (145.5lbs),RAW,,602.5,GA,Important Links
+298782,Christian,Maldonado,Oklahoma State University,Men - 66kg (145.5lbs),RAW,,587.5,OK,Team Entry
+825289,Henry,Diers,Midland University,Men - 66kg (145.5lbs),RAW,,572.5,NE,Team Roster Submission (No Roster Until Team Entry is Paid)
+589952,Syed,Hashmi,Brooklyn College,Men - 66kg (145.5lbs),RAW,,560,NY,Change Request Form
+458977,Michael,Casillas,Texas State University,Men - 66kg (145.5lbs),RAW,,560,TX,Individual Entry Form
+771962,Allen,Zou,College of the Holy Cross,Men - 66kg (145.5lbs),RAW,,560,MA,Referee Sign-up Form
+219622,Brian,Raymond,UCLA,Men - 66kg (145.5lbs),RAW,,555,CA,Current Roster
+308628,Elijah,Morrison,University of Pittsburgh,Men - 66kg (145.5lbs),RAW,,552.5,PA,Schedule Update - New
+519230,Nathan,Yu,Rutgers University,Men - 66kg (145.5lbs),RAW,,525,NJ,Coaches Pass - New
+321694,Erik,Hogan,Springfield College,Men - 66kg (145.5lbs),RAW,,522.5,ME,Academic Eligibility Form - New
+888473,Julio,Tinoco,Missouri Valley College,Men - 66kg (145.5lbs),RAW,,515,MO,
+884774,Preston,Le,"University of Colorado, Denver",Men - 66kg (145.5lbs),RAW,,505,CO,
+278714,Jack,Tran,Rutgers University–Camden,Men - 66kg (145.5lbs),RAW,,500,NJ,
+356691,Rahul,Malhotra,Rutgers University,Men - 66kg (145.5lbs),RAW,,500,NJ,
 244726,Nick,Palopoli,The Pennsylvania State Univers,Men - 66kg (145.5lbs),RAW,,495,PA,
 368157,Amauri,Negroni,Clemson University,Men - 66kg (145.5lbs),RAW,,490,SC,
 76335,Kyle,Smith,McKendree University,Men - 66kg (145.5lbs),RAW,,487.5,AR,
@@ -358,53 +440,67 @@ Lifter ID,First Name,Last Name,University Represented,Weight Class,Primary Divis
 126863,Justin,Brenner,The Ohio State University,Men - 66kg (145.5lbs),RAW,,480,OH,
 623599,Tahmid,Alam,Rutgers University,Men - 66kg (145.5lbs),RAW,,477.5,NJ,
 568589,Steven,Chun,UCLA,Men - 66kg (145.5lbs),RAW,,477.5,CA,
-712704,Arvind,Gupta,Penn State,Men - 66kg (145.5lbs),RAW,,472.5,PA,
-660943,Alexander,Windsor,University of Pittsburgh,Men - 66kg (145.5lbs),RAW,,467.5,PA,
-883717,Alec,Lord,USC,Men - 66kg (145.5lbs),RAW,,467.5,CA,
-157884,Parker,Frohlich,Temple University,Men - 66kg (145.5lbs),RAW,,462.5,NJ,
-808125,Grayson,Small,USC,Men - 66kg (145.5lbs),RAW,,460,CA,
-20769,Eric,Robinson,University of Maryland,Men - 66kg (145.5lbs),RAW,,457.5,MD,Important Links
-200934,Kyle,Nowak,The Ohio State University,Men - 66kg (145.5lbs),RAW,,455,OH,Team Entry
-701920,Kevin,Leong,Drexel University,Men - 66kg (145.5lbs),RAW,,452.5,PA,Team Roster Submission (No Roster Until Team Entry is Paid)
-781184,Zaahid,Abdullah,utapl,Men - 66kg (145.5lbs),RAW,,452.5,TX,Change Request Form
-151788,Paul,Pimentel,St. John's University,Men - 66kg (145.5lbs),RAW,,450,NY,Individual Entry Form
-849418,Carter,Winegeart,Tarleton State University,Men - 66kg (145.5lbs),RAW,,450,TX,Referee Sign-up Form
-62993,Shervin,Sadr,UMass Amherst,Men - 66kg (145.5lbs),RAW,,450,MA,Current Roster
-194125,Etienne,Waroquet,University of Pittsburgh,Men - 66kg (145.5lbs),RAW,,445,OH,Schedule Update - New
-670348,Jackson,Duschel,Missouri Valley College,Men - 66kg (145.5lbs),RAW,,440,MO,Coaches Pass - New
-378500,Michael,Sanchez-Ruiz,Rutgers University,Men - 66kg (145.5lbs),RAW,,440,NJ,Academic Eligibility Form - New
+18431,Jacob,Roffwarg,University of Texas at Austin,Men - 66kg (145.5lbs),RAW,,477.5,TX,Important Links
+712704,Arvind,Gupta,Penn State,Men - 66kg (145.5lbs),RAW,,472.5,PA,Team Entry
+424121,Dakota,Wall,Florida Gulf Coast University,Men - 66kg (145.5lbs),RAW,,470,FL,Team Roster Submission (No Roster Until Team Entry is Paid)
+660943,Alexander,Windsor,University of Pittsburgh,Men - 66kg (145.5lbs),RAW,,467.5,PA,Change Request Form
+883717,Alec,Lord,USC,Men - 66kg (145.5lbs),RAW,,467.5,CA,Individual Entry Form
+766167,Christopher,Lam,University of Texas at Austin,Men - 66kg (145.5lbs),RAW,,467.5,TX,Referee Sign-up Form
+157884,Parker,Frohlich,Temple University,Men - 66kg (145.5lbs),RAW,,462.5,NJ,Current Roster
+808125,Grayson,Small,USC,Men - 66kg (145.5lbs),RAW,,460,CA,Schedule Update - New
+20769,Eric,Robinson,University of Maryland,Men - 66kg (145.5lbs),RAW,,457.5,MD,Coaches Pass - New
+200934,Kyle,Nowak,The Ohio State University,Men - 66kg (145.5lbs),RAW,,455,OH,Academic Eligibility Form - New
+701920,Kevin,Leong,Drexel University,Men - 66kg (145.5lbs),RAW,,452.5,PA,
+781184,Zaahid,Abdullah,utapl,Men - 66kg (145.5lbs),RAW,,452.5,TX,
+151788,Paul,Pimentel,St. John's University,Men - 66kg (145.5lbs),RAW,,450,NY,
+849418,Carter,Winegeart,Tarleton State University,Men - 66kg (145.5lbs),RAW,,450,TX,
+62993,Shervin,Sadr,UMass Amherst,Men - 66kg (145.5lbs),RAW,,450,MA,
+943184,Adrian,Hall Jr,McNeese State University,Men - 66kg (145.5lbs),RAW,,450,LA,
+194125,Etienne,Waroquet,University of Pittsburgh,Men - 66kg (145.5lbs),RAW,,445,OH,
+670348,Jackson,Duschel,Missouri Valley College,Men - 66kg (145.5lbs),RAW,,440,MO,
+378500,Michael,Sanchez-Ruiz,Rutgers University,Men - 66kg (145.5lbs),RAW,,440,NJ,
+259476,joshua,acosta,Ottawa University,Men - 66kg (145.5lbs),RAW,,440,KS,
 912646,Justin,Rife,UW-MADISON,Men - 66kg (145.5lbs),RAW,,432.5,WI,
 74193,John,Montgomery,University of Virginia,Men - 66kg (145.5lbs),RAW,,430,VA,
 701623,Jonathan,Yu,University at Buffalo,Men - 66kg (145.5lbs),RAW,,425,NY,
 748223,Dawood,Alohaly,Kent State University,Men - 66kg (145.5lbs),RAW,,422.5,OH,
 759132,Noah,Donten,Pennsylvania State University,Men - 66kg (145.5lbs),RAW,,422.5,PA,
-993775,Colin,Bertz,UW-Madison,Men - 66kg (145.5lbs),RAW,,422.5,WI,
-213157,Peter,Nguyen,Pennsylvania State University,Men - 66kg (145.5lbs),RAW,,422.5,PA,
-774948,Ben,Sanchez,Texas State University,Men - 66kg (145.5lbs),RAW,,422.5,TX,
-33895,Michael,Van,UTSA,Men - 66kg (145.5lbs),RAW,,415,TX,
-570300,Matthew,Ramos,Marquette University,Men - 66kg (145.5lbs),RAW,,0,IL,
-794375,Tim,Clairmont,UTSA,Men - 66kg (145.5lbs),RAW,,0,TX,
-74381,Gregory,Rivin,The Ohio State University,Men - 66kg (145.5lbs),RAW,,0,OH,
-82150,Austin,Perkins,Midland University,Men - 74kg (163.1lbs),EQUIPPED,,802.5,MS,
+993775,Colin,Bertz,UW-Madison,Men - 66kg (145.5lbs),RAW,,422.5,WI,Important Links
+213157,Peter,Nguyen,Pennsylvania State University,Men - 66kg (145.5lbs),RAW,,422.5,PA,Team Entry
+774948,Ben,Sanchez,Texas State University,Men - 66kg (145.5lbs),RAW,,422.5,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
+940421,Rajan,Dasrath,University of Massachusetts,Men - 66kg (145.5lbs),RAW,,422.5,MA,Change Request Form
+879475,Alex,Cano,Texas A and M,Men - 66kg (145.5lbs),RAW,,422.5,TX,Individual Entry Form
+33895,Michael,Van,UTSA,Men - 66kg (145.5lbs),RAW,,415,TX,Referee Sign-up Form
+570300,Matthew,Ramos,Marquette University,Men - 66kg (145.5lbs),RAW,,0,IL,Current Roster
+794375,Tim,Clairmont,UTSA,Men - 66kg (145.5lbs),RAW,,0,TX,Schedule Update - New
+74381,Gregory,Rivin,The Ohio State University,Men - 66kg (145.5lbs),RAW,,0,OH,Coaches Pass - New
+82150,Austin,Perkins,Midland University,Men - 74kg (163.1lbs),EQUIPPED,,802.5,MS,Academic Eligibility Form - New
 298087,De'Quinton,Gie,Louisiana Tech University,Men - 74kg (163.1lbs),EQUIPPED,,707.5,LA,
+332518,David,Kim,United States Naval Academy,Men - 74kg (163.1lbs),EQUIPPED,,625,MD,
+605207,Anthony,Polo,United States Naval Academy,Men - 74kg (163.1lbs),EQUIPPED,,620,NY,
 183529,Calvin,Dukes,Blue Mountain College,Men - 74kg (163.1lbs),EQUIPPED,,595,MS,
+9176,Nicholas,Fresneda,Northeastern University,Men - 74kg (163.1lbs),EQUIPPED,,595,MA,
+553377,Daniel,Diaz,United States Naval Academy,Men - 74kg (163.1lbs),EQUIPPED,,592.5,MD,
 547039,Amilcar,Flores,Sam Houston State University,Men - 74kg (163.1lbs),EQUIPPED,,581.86,TX,
-487603,Felix,Del Rio,UTSA,Men - 74kg (163.1lbs),EQUIPPED,,575,TX,Important Links
-57484,Hunter,Dollery,Sam Houston State University,Men - 74kg (163.1lbs),EQUIPPED,,557.5,TX,Team Entry
-170209,DAMON,SCOTT,Louisiana State University Pow,Men - 74kg (163.1lbs),EQUIPPED,,545,LA,Team Roster Submission (No Roster Until Team Entry is Paid)
-512119,Joseph,Jones,McKendree University,Men - 74kg (163.1lbs),EQUIPPED,,537.5,IL,Change Request Form
-191299,Colin,White,Louisiana Tech University,Men - 74kg (163.1lbs),EQUIPPED,,537.5,LA,Individual Entry Form
-605828,Michael,Barbini,Northeastern University,Men - 74kg (163.1lbs),EQUIPPED,,512.5,MA,Referee Sign-up Form
-398941,Brennan,Benedietto,UL LOUISIANA,Men - 74kg (163.1lbs),EQUIPPED,,505,LA,Current Roster
-655549,Peyton,Matherne,Louisiana State University,Men - 74kg (163.1lbs),EQUIPPED,,500,LA,Schedule Update - New
-914929,Hideki,Kondo,Northeastern University,Men - 74kg (163.1lbs),EQUIPPED,,497.5,MA,Coaches Pass - New
-594998,Julian,Bonnell,Louisiana State University,Men - 74kg (163.1lbs),EQUIPPED,,490,LA,Academic Eligibility Form - New
-737032,Sion,Farley-Thompson,Louisiana State University,Men - 74kg (163.1lbs),EQUIPPED,,485,GA,
-320911,Benjamin,Finch,Louisiana Tech University,Men - 74kg (163.1lbs),EQUIPPED,,460,LA,
-183436,Dante,Citizen,UL Lafayette,Men - 74kg (163.1lbs),EQUIPPED,EQUIPPED,337.926,LA,
-56010,Bobby,Robinson,UL Lafayette,Men - 74kg (163.1lbs),EQUIPPED,,0,LA,
-959261,Kevin,Kidd,UL Lafayette,Men - 74kg (163.1lbs),EQUIPPED,,0,LA,
-256816,Ryan,Sotnick,Franklin & Marshall College,Men - 74kg (163.1lbs),RAW,,610 kgs,MD,
+487603,Felix,Del Rio,UTSA,Men - 74kg (163.1lbs),EQUIPPED,,575,TX,
+57484,Hunter,Dollery,Sam Houston State University,Men - 74kg (163.1lbs),EQUIPPED,,557.5,TX,
+819843,Christopher,Martinez,Sam Houston State University,Men - 74kg (163.1lbs),EQUIPPED,,550,TX,
+819843,Christopher,Martinez,Sam Houston State University,Men - 74kg (163.1lbs),EQUIPPED,,550,TX,
+170209,DAMON,SCOTT,Louisiana State University Pow,Men - 74kg (163.1lbs),EQUIPPED,,545,LA,
+512119,Joseph,Jones,McKendree University,Men - 74kg (163.1lbs),EQUIPPED,,537.5,IL,
+191299,Colin,White,Louisiana Tech University,Men - 74kg (163.1lbs),EQUIPPED,,537.5,LA,
+605828,Michael,Barbini,Northeastern University,Men - 74kg (163.1lbs),EQUIPPED,,512.5,MA,
+398941,Brennan,Benedietto,UL LOUISIANA,Men - 74kg (163.1lbs),EQUIPPED,,505,LA,
+655549,Peyton,Matherne,Louisiana State University,Men - 74kg (163.1lbs),EQUIPPED,,500,LA,Important Links
+914929,Hideki,Kondo,Northeastern University,Men - 74kg (163.1lbs),EQUIPPED,,497.5,MA,Team Entry
+288810,Gage,Trujillo,Texas Tech University,Men - 74kg (163.1lbs),EQUIPPED,,497.5,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
+594998,Julian,Bonnell,Louisiana State University,Men - 74kg (163.1lbs),EQUIPPED,,490,LA,Change Request Form
+737032,Sion,Farley-Thompson,Louisiana State University,Men - 74kg (163.1lbs),EQUIPPED,,485,GA,Individual Entry Form
+320911,Benjamin,Finch,Louisiana Tech University,Men - 74kg (163.1lbs),EQUIPPED,,460,LA,Referee Sign-up Form
+183436,Dante,Citizen,UL Lafayette,Men - 74kg (163.1lbs),EQUIPPED,EQUIPPED,337.926,LA,Current Roster
+56010,Bobby,Robinson,UL Lafayette,Men - 74kg (163.1lbs),EQUIPPED,,0,LA,Schedule Update - New
+959261,Kevin,Kidd,UL Lafayette,Men - 74kg (163.1lbs),EQUIPPED,,0,LA,Coaches Pass - New
+256816,Ryan,Sotnick,Franklin & Marshall College,Men - 74kg (163.1lbs),RAW,,610 kgs,MD,Academic Eligibility Form - New
 269290,Matthew,Conner,Texas State University,Men - 74kg (163.1lbs),RAW,,680,TX,
 39201,Hamza,Anwar,University of South Florida,Men - 74kg (163.1lbs),RAW,,657.5,FL,
 628779,Matthew,Anderson,University of Houston,Men - 74kg (163.1lbs),RAW,,655,TX,
@@ -417,122 +513,154 @@ Lifter ID,First Name,Last Name,University Represented,Weight Class,Primary Divis
 964038,Keenan,Dung,University of the Pacific,Men - 74kg (163.1lbs),RAW,,608.5,HI,
 111317,Shawn,Alexander,University of Minnesota,Men - 74kg (163.1lbs),RAW,,607.5,MN,
 45269,Hayden,Lee,UCLA,Men - 74kg (163.1lbs),RAW,,605,CA,
-900897,Patrick James,Pacheco,USC,Men - 74kg (163.1lbs),RAW,,600,CA,Important Links
-427652,William,Lai,UW-Madison,Men - 74kg (163.1lbs),RAW,,595,WI,Team Entry
-949837,Nicklas,Haddad,The Ohio State University,Men - 74kg (163.1lbs),RAW,,585,OH,Team Roster Submission (No Roster Until Team Entry is Paid)
-657201,Randall,Holliday,University of North Texas,Men - 74kg (163.1lbs),RAW,,570,TX,Change Request Form
-724321,Michael,Sullivan,UMass Amherst,Men - 74kg (163.1lbs),RAW,,567.5,MA,Individual Entry Form
-32065,Pablo,Hurtado,VCU,Men - 74kg (163.1lbs),RAW,,565,VA,Referee Sign-up Form
-313277,Paul,Fernandez,Rutgers University,Men - 74kg (163.1lbs),RAW,,562.5,NJ,Current Roster
-650943,Christopher,McMurtry,McKendree University,Men - 74kg (163.1lbs),RAW,,562.5,IL,Schedule Update - New
-309232,Joshua,Howard,University of North Texas,Men - 74kg (163.1lbs),RAW,,560,TX,Coaches Pass - New
-193885,Roman,Kasparian,University of Pittsburgh,Men - 74kg (163.1lbs),RAW,,560,PA,Academic Eligibility Form - New
-634099,Joel,Tansey,University of Illinois UC,Men - 74kg (163.1lbs),RAW,,557.5,IA,
+277282,Charles,Hammonds JR,Sam Houston state university,Men - 74kg (163.1lbs),RAW,,605,TX,
+900897,Patrick James,Pacheco,USC,Men - 74kg (163.1lbs),RAW,,600,CA,
+427652,William,Lai - GUEST,UW-Madison,Men - 74kg (163.1lbs),RAW,,595,WI,
+642161,Ronnie,Cormier,McNeese State University,Men - 74kg (163.1lbs),RAW,,595,LA,
+949837,Nicklas,Haddad,The Ohio State University,Men - 74kg (163.1lbs),RAW,,585,OH,Important Links
+447090,Nicholas,Abbatangelo,University of Rhode Island,Men - 74kg (163.1lbs),RAW,,580,RI,Team Entry
+657201,Randall,Holliday,University of North Texas,Men - 74kg (163.1lbs),RAW,,570,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
+724321,Michael,Sullivan,UMass Amherst,Men - 74kg (163.1lbs),RAW,,567.5,MA,Change Request Form
+32065,Pablo,Hurtado,VCU,Men - 74kg (163.1lbs),RAW,,565,VA,Individual Entry Form
+313277,Paul,Fernandez,Rutgers University,Men - 74kg (163.1lbs),RAW,,562.5,NJ,Referee Sign-up Form
+650943,Christopher,McMurtry,McKendree University,Men - 74kg (163.1lbs),RAW,,562.5,IL,Current Roster
+309232,Joshua,Howard,University of North Texas,Men - 74kg (163.1lbs),RAW,,560,TX,Schedule Update - New
+193885,Roman,Kasparian,University of Pittsburgh,Men - 74kg (163.1lbs),RAW,,560,PA,Coaches Pass - New
+634099,Joel,Tansey,University of Illinois UC,Men - 74kg (163.1lbs),RAW,,557.5,IA,Academic Eligibility Form - New
 845327,ahamd,mobarak,Florida International Uni,Men - 74kg (163.1lbs),RAW,,555,FL,
 304671,Colin,Nolte,University of Akron,Men - 74kg (163.1lbs),RAW,,552.5,OH,
 449092,Ryan,Nguyen,University of Houston,Men - 74kg (163.1lbs),RAW,,552.5,TX,
 136594,Zane,Nuttall,Southern Virginia University,Men - 74kg (163.1lbs),RAW,,550,WA,
 550301,Max,Walker,UW-Eau Claire,Men - 74kg (163.1lbs),RAW,,550,WI,
 479546,Dara,Safe,University of Wisconsin,Men - 74kg (163.1lbs),RAW,,545,IL,
+277680,Alex,Saldana,UT Austin,Men - 74kg (163.1lbs),RAW,,545,TX,
 292036,Zhengang,Xu,Vanderbilt Univeristy,Men - 74kg (163.1lbs),RAW,,542.5,TN,
 69478,Stephen,Cooper,Auburn University,Men - 74kg (163.1lbs),RAW,,540,FL,
 244315,Terron,Robey,UW - La Crosse,Men - 74kg (163.1lbs),RAW,,540,WI,
 494100,Yohan,Purugganan,The Ohio State University,Men - 74kg (163.1lbs),RAW,,537.5,OH,
 643958,Bryan,Vargas,Penn State University,Men - 74kg (163.1lbs),RAW,,532,PA,
 680478,Charles,Vatanatham,UCLA,Men - 74kg (163.1lbs),RAW,,530,CA,
-631239,Clayton,Callender WD,VCU,Men - 74kg (163.1lbs),RAW,,530,VA,Important Links
-166466,Christian,Valdepenas,University of Houston,Men - 74kg (163.1lbs),RAW,,530,TX,Team Entry
-697699,Zain,Skalos,University of Pittsburgh,Men - 74kg (163.1lbs),RAW,,530,PA,Team Roster Submission (No Roster Until Team Entry is Paid)
-950659,John,Le,UW-Madison,Men - 74kg (163.1lbs),RAW,,505,WI,Change Request Form
-33870,Larry,Gunter,University of South Carolina,Men - 74kg (163.1lbs),RAW,,267.5,SC,Individual Entry Form
-952997,Joey,Leonard,U.S. Coast Guard Academy,Men - 74kg (163.1lbs),RAW,,0,CT,Referee Sign-up Form
-479993,Teppei,Kotake,Vanderbilt University,Men - 74kg (163.1lbs),RAW,,0,MA,Current Roster
-758183,Mico,Manalang,U.S. Coast Guard Academy,Men - 74kg (163.1lbs),RAW,,0,NJ,Schedule Update - New
-233856,Kyle,Petersen,Arizona State University,Men - 74kg (163.1lbs),RAW,,0,AZ,Coaches Pass - New
-301312,Sam,Dehring,UW-Milwaukee,Men - 83kg (182.9lbs),EQUIPPED,RAW,"1,228",WI,Academic Eligibility Form - New
-96972,Jared,Naquin,UL Lafayette,Men - 83kg (182.9lbs),EQUIPPED,,817.5,LA,
-693426,Joel,Garza,UTSA,Men - 83kg (182.9lbs),EQUIPPED,,782.5,TX,
+631239,Clayton,Callender WD,VCU,Men - 74kg (163.1lbs),RAW,,530,VA,
+166466,Christian,Valdepenas,University of Houston,Men - 74kg (163.1lbs),RAW,,530,TX,
+697699,Zain,Skalos,University of Pittsburgh,Men - 74kg (163.1lbs),RAW,,530,PA,Important Links
+950659,John,Le,UW-Madison,Men - 74kg (163.1lbs),RAW,,505,WI,Team Entry
+33870,Larry,Gunter,University of South Carolina,Men - 74kg (163.1lbs),RAW,,267.5,SC,Team Roster Submission (No Roster Until Team Entry is Paid)
+952997,Joey,Leonard,U.S. Coast Guard Academy,Men - 74kg (163.1lbs),RAW,,0,CT,Change Request Form
+479993,Teppei,Kotake,Vanderbilt University,Men - 74kg (163.1lbs),RAW,,0,MA,Individual Entry Form
+758183,Mico,Manalang,U.S. Coast Guard Academy,Men - 74kg (163.1lbs),RAW,,0,NJ,Referee Sign-up Form
+233856,Kyle,Petersen,Arizona State University,Men - 74kg (163.1lbs),RAW,,0,AZ,Current Roster
+301312,Sam,Dehring,UW-Milwaukee,Men - 83kg (182.9lbs),EQUIPPED,RAW,"1,228",WI,Schedule Update - New
+96972,Jared,Naquin,UL Lafayette,Men - 83kg (182.9lbs),EQUIPPED,,817.5,LA,Coaches Pass - New
+693426,Joel,Garza,UTSA,Men - 83kg (182.9lbs),EQUIPPED,,782.5,TX,Academic Eligibility Form - New
 947101,Timothy,Thibodeaux,Louisiana State University,Men - 83kg (182.9lbs),EQUIPPED,,767.5,TX,
+984417,Jackson,Franco,United States Naval Academy,Men - 83kg (182.9lbs),EQUIPPED,,715,TX,
+872824,Daniel,Hernandez,Texas A&M University,Men - 83kg (182.9lbs),EQUIPPED,,710,TX,
 80459,Gavin,Vara,Midland University,Men - 83kg (182.9lbs),EQUIPPED,,702.5,TX,
+385854,Connor,Burke,Texas A&M University,Men - 83kg (182.9lbs),EQUIPPED,,680,TX,
 380779,Murphy,Richard,LSU,Men - 83kg (182.9lbs),EQUIPPED,,665,LA,
 321103,Alfred,Young,University of Texas at Austin,Men - 83kg (182.9lbs),EQUIPPED,,655,TX,
+264316,Matheus,Rudy,United States Naval Academy,Men - 83kg (182.9lbs),EQUIPPED,,652.5,MD,
 320257,Patrick,Padilla,Southern Illinois University,Men - 83kg (182.9lbs),EQUIPPED,,650,IL,
 981425,Justin,Choy,Northeastern University,Men - 83kg (182.9lbs),EQUIPPED,,627.5,WI,
 269563,Sebastian,Sanchez,Midland University,Men - 83kg (182.9lbs),EQUIPPED,,627.5,TX,
+950143,Tristan,Bigler,Sam Houston State University,Men - 83kg (182.9lbs),EQUIPPED,,627.5,TX,
 337232,Liam,McCauley,Louisiana State University,Men - 83kg (182.9lbs),EQUIPPED,,592.5,LA,
 69923,Patrick,Fontenot,UL Lafayette,Men - 83kg (182.9lbs),EQUIPPED,,587.5,LA,
+11567,Andrew,Faber,United States Naval Academy,Men - 83kg (182.9lbs),EQUIPPED,,587.5,MD,
 199313,Jared,Bowens,Blue Mountain College,Men - 83kg (182.9lbs),EQUIPPED,,577.5,AL,
-21328,Devin,Nielsen,Midland University,Men - 83kg (182.9lbs),EQUIPPED,,565,NE,
-21328,Devin,Nielsen,Midland University,Men - 83kg (182.9lbs),EQUIPPED,,565,NE,
-372344,MAXWELL,BIDIC,PENN STATE UNIVERSITY,Men - 83kg (182.9lbs),EQUIPPED,,563,NJ,
-67966,Dylan,Spedale,Louisiana State University,Men - 83kg (182.9lbs),EQUIPPED,,527.5,LA,Important Links
-690902,Rece,Foss,The Ohio State Univeristy,Men - 83kg (182.9lbs),EQUIPPED,,527.5,OH,Team Entry
-457231,Brian,Ceasar,UL Lafayette,Men - 83kg (182.9lbs),EQUIPPED,,522.5,LA,Team Roster Submission (No Roster Until Team Entry is Paid)
-176821,Charles,Kellum,UL Lafayette,Men - 83kg (182.9lbs),EQUIPPED,,522.5,LA,Change Request Form
-538408,Draik,Delino,UL Lafayette,Men - 83kg (182.9lbs),EQUIPPED,,522.5,LA,Individual Entry Form
-750589,William,Lei,Northeastern University,Men - 83kg (182.9lbs),EQUIPPED,,522.5,MA,Referee Sign-up Form
-587937,Dominique,Felder,sam houston state,Men - 83kg (182.9lbs),EQUIPPED,,522.5,TX,Current Roster
-971998,Andrew,Ardoin,UL Lafayette,Men - 83kg (182.9lbs),EQUIPPED,,0,LA,Schedule Update - New
-281215,Shane,Nutt,Midland University,Men - 83kg (182.9lbs),RAW,,732.5,MI,Coaches Pass - New
-559120,Danny,Stachelek,Central Connecticut State Univ,Men - 83kg (182.9lbs),RAW,,705,NY,Academic Eligibility Form - New
+703888,carter,mullikin,United States Naval Academy,Men - 83kg (182.9lbs),EQUIPPED,,577.5,GA,
+21328,Devin,Nielsen,Midland University,Men - 83kg (182.9lbs),EQUIPPED,,565,NE,Important Links
+21328,Devin,Nielsen,Midland University,Men - 83kg (182.9lbs),EQUIPPED,,565,NE,Team Entry
+372344,MAXWELL,BIDIC,PENN STATE UNIVERSITY,Men - 83kg (182.9lbs),EQUIPPED,,563,NJ,Team Roster Submission (No Roster Until Team Entry is Paid)
+67966,Dylan,Spedale,Louisiana State University,Men - 83kg (182.9lbs),EQUIPPED,,527.5,LA,Change Request Form
+690902,Rece,Foss,The Ohio State Univeristy,Men - 83kg (182.9lbs),EQUIPPED,,527.5,OH,Individual Entry Form
+339348,Christian,Williams,United States Naval Academy,Men - 83kg (182.9lbs),EQUIPPED,,527.5,MD,Referee Sign-up Form
+457231,Brian,Ceasar,UL Lafayette,Men - 83kg (182.9lbs),EQUIPPED,,522.5,LA,Current Roster
+176821,Charles,Kellum,UL Lafayette,Men - 83kg (182.9lbs),EQUIPPED,,522.5,LA,Schedule Update - New
+538408,Draik,Delino,UL Lafayette,Men - 83kg (182.9lbs),EQUIPPED,,522.5,LA,Coaches Pass - New
+750589,William,Lei,Northeastern University,Men - 83kg (182.9lbs),EQUIPPED,,522.5,MA,Academic Eligibility Form - New
+587937,Dominique,Felder,sam houston state,Men - 83kg (182.9lbs),EQUIPPED,,522.5,TX,
+971998,Andrew,Ardoin,UL Lafayette,Men - 83kg (182.9lbs),EQUIPPED,,0,LA,
+281215,Shane,Nutt,Midland University,Men - 83kg (182.9lbs),RAW,,732.5,MI,
+694222,Rob,Escalante,Texas A&M University,Men - 83kg (182.9lbs),RAW,,710,TX,
+559120,Danny,Stachelek,Central Connecticut State Univ,Men - 83kg (182.9lbs),RAW,,705,NY,
+756650,Antonino,Fazio,The Sage Colleges,Men - 83kg (182.9lbs),RAW,,702.5,NY,
+897045,Tyree,Davis,University of North Texas,Men - 83kg (182.9lbs),RAW,,700,TX,
 782374,Ryan,Sanders,UW-Madison,Men - 83kg (182.9lbs),RAW,,680,WI,
 584380,Brett,Peach,University of Kentucky,Men - 83kg (182.9lbs),RAW,,680,KY,
 487106,Andy,Hernandez,Worcester State University,Men - 83kg (182.9lbs),RAW,,677.5,MA,
 627242,Josenico Blanco,Blanco,UC San Diego,Men - 83kg (182.9lbs),RAW,,677,CA,
 186852,Abdulrahman,AlShayji,FlU - Florida Intern. Univer.,Men - 83kg (182.9lbs),RAW,,672.5,FL,
 258092,Devraj,Roy,Rutgers University,Men - 83kg (182.9lbs),RAW,,670,NJ,
-631774,Hunter,Reaux,Clemson University,Men - 83kg (182.9lbs),RAW,,665,NC,
-603668,Santiago,Ramirez,UTSA,Men - 83kg (182.9lbs),RAW,,665,TX,
-793632,Jett,Ertle,Texas Tech University,Men - 83kg (182.9lbs),RAW,,655,TX,
-783246,Sean,Jin,Carnegie Mellon University,Men - 83kg (182.9lbs),RAW,,652.5,PA,
-455783,Joshua,Bensur,The Ohio State University,Men - 83kg (182.9lbs),RAW,,652.5,OH,
-444919,Christian,Petrilli,Cornell University,Men - 83kg (182.9lbs),RAW,,650,NY,
-667481,Julian,Posas,James Madison University,Men - 83kg (182.9lbs),RAW,,645,VA,
-374568,Vincent,Clark,UMass Amherst,Men - 83kg (182.9lbs),RAW,,642.5,MA,
-264431,Keegan,Allen,University of Alabama,Men - 83kg (182.9lbs),RAW,,641,AL,
-827903,Kyle,Dawson,University Of Nebraska-Lincoln,Men - 83kg (182.9lbs),RAW,,637.5,NE,
-944832,Connor,Finnegan,Midland University,Men - 83kg (182.9lbs),RAW,,635,MD,Important Links
-438872,Connor,Sult,Clemson University,Men - 83kg (182.9lbs),RAW,,632.5,SC,Team Entry
-363789,Jack,Encheff,Purdue University,Men - 83kg (182.9lbs),RAW,,630,OH,Team Roster Submission (No Roster Until Team Entry is Paid)
-343744,Elliott,Hilliard,University of Texas at Austin,Men - 83kg (182.9lbs),RAW,,627.5,TX,Change Request Form
-848906,Keegan,Gaddy,East Carolina University,Men - 83kg (182.9lbs),RAW,,622.5,ND,Individual Entry Form
-511997,Jaroslav,Szadkowski,St. Mary's College of Maryland,Men - 83kg (182.9lbs),RAW,,620,MD,Referee Sign-up Form
-66187,Aaron,Sebok,McKendree University,Men - 83kg (182.9lbs),RAW,,617.5,TX,Current Roster
-309007,Rohan,Mishra,Washington University,Men - 83kg (182.9lbs),RAW,,617.5,NY,Schedule Update - New
-606001,Zachary,Sparks,Pennsylvania State University,Men - 83kg (182.9lbs),RAW,,615,PA,Coaches Pass - New
-267128,Jeremiah,Vivero,Radford University,Men - 83kg (182.9lbs),RAW,,610,VA,Academic Eligibility Form - New
+267793,Donald,Phounsavath,University of Texas at Austin,Men - 83kg (182.9lbs),RAW,,667.5,TX,
+631774,Hunter,Reaux,Clemson University,Men - 83kg (182.9lbs),RAW,,665,NC,Important Links
+603668,Santiago,Ramirez,UTSA,Men - 83kg (182.9lbs),RAW,,665,TX,Team Entry
+793632,Jett,Ertle,Texas Tech University,Men - 83kg (182.9lbs),RAW,,655,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
+783246,Sean,Jin,Carnegie Mellon University,Men - 83kg (182.9lbs),RAW,,652.5,PA,Change Request Form
+455783,Joshua,Bensur,The Ohio State University,Men - 83kg (182.9lbs),RAW,,652.5,OH,Individual Entry Form
+444919,Christian,Petrilli,Cornell University,Men - 83kg (182.9lbs),RAW,,650,NY,Referee Sign-up Form
+667481,Julian,Posas,James Madison University,Men - 83kg (182.9lbs),RAW,,645,VA,Current Roster
+374568,Vincent,Clark,UMass Amherst,Men - 83kg (182.9lbs),RAW,,642.5,MA,Schedule Update - New
+264431,Keegan,Allen,University of Alabama,Men - 83kg (182.9lbs),RAW,,641,AL,Coaches Pass - New
+827903,Kyle,Dawson,University Of Nebraska-Lincoln,Men - 83kg (182.9lbs),RAW,,637.5,NE,Academic Eligibility Form - New
+944832,Connor,Finnegan,Midland University,Men - 83kg (182.9lbs),RAW,,635,MD,
+438872,Connor,Sult,Clemson University,Men - 83kg (182.9lbs),RAW,,632.5,SC,
+363789,Jack,Encheff,Purdue University,Men - 83kg (182.9lbs),RAW,,630,OH,
+343744,Elliott,Hilliard,University of Texas at Austin,Men - 83kg (182.9lbs),RAW,,627.5,TX,
+848906,Keegan,Gaddy,East Carolina University,Men - 83kg (182.9lbs),RAW,,622.5,ND,
+511997,Jaroslav,Szadkowski,St. Mary's College of Maryland,Men - 83kg (182.9lbs),RAW,,620,MD,
+66187,Aaron,Sebok,McKendree University,Men - 83kg (182.9lbs),RAW,,617.5,TX,
+309007,Rohan,Mishra,Washington University,Men - 83kg (182.9lbs),RAW,,617.5,NY,
+606001,Zachary,Sparks,Pennsylvania State University,Men - 83kg (182.9lbs),RAW,,615,PA,
+267128,Jeremiah,Vivero,Radford University,Men - 83kg (182.9lbs),RAW,,610,VA,
 818617,Austin,Ballard,Tarleton State University,Men - 83kg (182.9lbs),RAW,,610,TX,
 208618,James,Elia,UMass Amherst,Men - 83kg (182.9lbs),RAW,,607.5,MA,
 860458,Nicolas,Klebusits,University of Notre Dame,Men - 83kg (182.9lbs),RAW,,605,IN,
 617524,Cole,Mueller,Southern Illinois University C,Men - 83kg (182.9lbs),RAW,,602.5,IL,
 250384,Sean,Martinez,UTSA,Men - 83kg (182.9lbs),RAW,,602.5,TX,
+530841,Tyler,Petrow,Ivy Tech Community College,Men - 83kg (182.9lbs),RAW,,602.5,IN,
 810053,Nick,Sia,West Virginia University,Men - 83kg (182.9lbs),RAW,,600,OH,
-510863,David,Goldstein,Keene State College,Men - 83kg (182.9lbs),RAW,,597.5,CT,
-580780,Nicholas,Swisher,University of North Texas,Men - 83kg (182.9lbs),RAW,,597.5,TX,
-1058,Henry,Huynhnguyen,University of Missouri,Men - 83kg (182.9lbs),RAW,,597.5,MO,
-392315,Tony,Lee,Wash U,Men - 83kg (182.9lbs),RAW,,597.5,MO,
-597546,George,Chu,Rutgers University,Men - 83kg (182.9lbs),RAW,,592.5,NJ,
-674182,Erik,So,Denison University,Men - 83kg (182.9lbs),RAW,,592.5,NC,
-547040,Eutiquio,Mondragon,Texas state university,Men - 83kg (182.9lbs),RAW,,592.5,TX,
-737774,Matthew,Smith,University of Nebraska Lincoln,Men - 83kg (182.9lbs),RAW,,592.5,NE,
-638244,Aidan,O'Brien,Temple University,Men - 83kg (182.9lbs),RAW,,592.5,PA,
+510863,David,Goldstein,Keene State College,Men - 83kg (182.9lbs),RAW,,597.5,CT,Important Links
+580780,Nicholas,Swisher,University of North Texas,Men - 83kg (182.9lbs),RAW,,597.5,TX,Team Entry
+1058,Henry,Huynhnguyen,University of Missouri,Men - 83kg (182.9lbs),RAW,,597.5,MO,Team Roster Submission (No Roster Until Team Entry is Paid)
+392315,Tony,Lee,Wash U,Men - 83kg (182.9lbs),RAW,,597.5,MO,Change Request Form
+989706,Ragheb,Abu-rubieh,UMass boston,Men - 83kg (182.9lbs),RAW,,595,MA,Individual Entry Form
+597546,George,Chu,Rutgers University,Men - 83kg (182.9lbs),RAW,,592.5,NJ,Referee Sign-up Form
+674182,Erik,So,Denison University,Men - 83kg (182.9lbs),RAW,,592.5,NC,Current Roster
+547040,Eutiquio,Mondragon,Texas state university,Men - 83kg (182.9lbs),RAW,,592.5,TX,Schedule Update - New
+737774,Matthew,Smith,University of Nebraska Lincoln,Men - 83kg (182.9lbs),RAW,,592.5,NE,Coaches Pass - New
+638244,Aidan,O'Brien,Temple University,Men - 83kg (182.9lbs),RAW,,592.5,PA,Academic Eligibility Form - New
 409905,Carson,Hauge,UW Eau-Claire,Men - 83kg (182.9lbs),RAW,,592.5,WI,
-968764,Richard,Shorts,Auburn University,Men - 83kg (182.9lbs),RAW,,582.5,AL,Important Links
-376478,Praveen,Sakthivel,Rutgers University,Men - 83kg (182.9lbs),RAW,,0,NJ,Team Entry
-821011,Zanoah,Arnold,University of North Texas,Men - 83kg (182.9lbs),RAW,,0,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
-76031,Preston,Savoy Jr.,UL Lafayette,Men - 93kg (205.0lbs),EQUIPPED,,880,LA,Change Request Form
-234084,Noah,Johnson,UniversityofWisconsin Parkside,Men - 93kg (205.0lbs),EQUIPPED,,842.5,WI,Individual Entry Form
-910116,Obed,Hernandez,UTSA,Men - 93kg (205.0lbs),EQUIPPED,,837.5,TX,Referee Sign-up Form
-217,Adrian,Sustaita,UTSA,Men - 93kg (205.0lbs),EQUIPPED,,805,TX,Current Roster
-929070,Garrett,Parkhill,Midland University,Men - 93kg (205.0lbs),EQUIPPED,,790,TX,Schedule Update - New
-850351,Hayden,Willis,Louisiana State University,Men - 93kg (205.0lbs),EQUIPPED,,745,LA,Coaches Pass - New
-651403,Jin Cheng,Chen,Northeastern University,Men - 93kg (205.0lbs),EQUIPPED,,645,MA,Academic Eligibility Form - New
+306159,Zach,Schulte,Arizona State University,Men - 83kg (182.9lbs),RAW,,592.5,AZ,
+544781,Pascal,Porche,University of Colorado Boulder,Men - 83kg (182.9lbs),RAW,,592.5,CO,
+968764,Richard,Shorts,Auburn University,Men - 83kg (182.9lbs),RAW,,582.5,AL,
+376478,Praveen,Sakthivel,Rutgers University,Men - 83kg (182.9lbs),RAW,,0,NJ,
+821011,Zanoah,Arnold,University of North Texas,Men - 83kg (182.9lbs),RAW,,0,TX,
+76031,Preston,Savoy Jr.,UL Lafayette,Men - 93kg (205.0lbs),EQUIPPED,,880,LA,
+234084,Noah,Johnson,UniversityofWisconsin Parkside,Men - 93kg (205.0lbs),EQUIPPED,,842.5,WI,
+910116,Obed,Hernandez,UTSA,Men - 93kg (205.0lbs),EQUIPPED,,837.5,TX,
+92296,Dalton,Richardson,Texas A&M University,Men - 93kg (205.0lbs),EQUIPPED,,825,TX,
+217,Adrian,Sustaita,UTSA,Men - 93kg (205.0lbs),EQUIPPED,,805,TX,
+929070,Garrett,Parkhill,Midland University,Men - 93kg (205.0lbs),EQUIPPED,,790,TX,
+850351,Hayden,Willis,Louisiana State University,Men - 93kg (205.0lbs),EQUIPPED,,745,LA,
+841493,Calvin,Radka,UW-Milwaukee,Men - 93kg (205.0lbs),EQUIPPED,,727.5,WI,
+,Devin,Kumar,University of Texas at Austin,Men - 93kg (205.0lbs),EQUIPPED,,717.5,TX,
+96913,Ezrah,Itkowsky,United States Naval Academy,Men - 93kg (205.0lbs),EQUIPPED,,700,MD,
+231551,Paul,Deist,United States Naval Academy,Men - 93kg (205.0lbs),EQUIPPED,,698,MD,
+253445,Emanuel,Ochoa,Texas A&M,Men - 93kg (205.0lbs),EQUIPPED,,655,TX,
+651403,Jin Cheng,Chen,Northeastern University,Men - 93kg (205.0lbs),EQUIPPED,,645,MA,
 499876,Robert,Hall,UL Lafayette,Men - 93kg (205.0lbs),EQUIPPED,,617.5,LA,
+553968,David,Saunders,Texas A&M University,Men - 93kg (205.0lbs),EQUIPPED,,610,TX,
 890669,Nick,Krivanek,Midland University,Men - 93kg (205.0lbs),EQUIPPED,,605,NE,
 675063,Shawn,Howell,Louisiana State University,Men - 93kg (205.0lbs),EQUIPPED,,590,LA,
+860022,Zachary,Wood,Texas A&M University,Men - 93kg (205.0lbs),EQUIPPED,,590,CA,
+784793,Jared,Stellbauer,Sam Houston State University,Men - 93kg (205.0lbs),EQUIPPED,,588,TX,
 357470,Justin,Taliaferro,UL Lafayette,Men - 93kg (205.0lbs),EQUIPPED,,572.5,LA,
+144414,Joseph,Hocking,Northeastern University,Men - 93kg (205.0lbs),EQUIPPED,,572.5,NH,
 411900,Aaron,Watson,Texas Tech University,Men - 93kg (205.0lbs),EQUIPPED,,555,TX,
 249676,Noah,Hebert,Northeastern University,Men - 93kg (205.0lbs),EQUIPPED,,555,MA,
+332275,Thomas,Kelleher,University of Rhode Island,Men - 93kg (205.0lbs),EQUIPPED,,555,RI,
+483171,David,Blackburn,Texas A&M,Men - 93kg (205.0lbs),EQUIPPED,,555,TX,
 676218,Gabriel,Pipkin,Blue mountain college,Men - 93kg (205.0lbs),EQUIPPED,,0,AL,
 344267,Benjamin,Poore,Butler University,Men - 93kg (205.0lbs),RAW,,770,IN,
 656437,Isaac,Salas,Texa State University,Men - 93kg (205.0lbs),RAW,,750,TX,
@@ -542,76 +670,97 @@ Lifter ID,First Name,Last Name,University Represented,Weight Class,Primary Divis
 102686,Jacob,Scattone,Southern Illinois University,Men - 93kg (205.0lbs),RAW,,697.5,IL,
 521480,Dylan,Crawford,Manchester Community College,Men - 93kg (205.0lbs),RAW,,692.5,NH,
 692582,Ian,Konecnik,Missouri University S&T,Men - 93kg (205.0lbs),RAW,,690,MO,
-973572,Jaron,Yamane,University of Hawai’i at Mānoa,Men - 93kg (205.0lbs),RAW,,682.5,HI,Important Links
-329637,Alex,Merino,The University of Maryland,Men - 93kg (205.0lbs),RAW,,680,MD,Team Entry
-188838,Devin,Tran,Temple University,Men - 93kg (205.0lbs),RAW,,680,PA,Team Roster Submission (No Roster Until Team Entry is Paid)
-583895,Tyler,Wang,Wesleyan University,Men - 93kg (205.0lbs),RAW,,680,CA,Change Request Form
-769178,Matt,Garrett,University of Toledo,Men - 93kg (205.0lbs),RAW,,680,OH,Individual Entry Form
-353178,Colton,Hurley,Midland University,Men - 93kg (205.0lbs),RAW,,680,NC,Referee Sign-up Form
-883821,Christopher,DeCaro,UMASS Amherst,Men - 93kg (205.0lbs),RAW,,680,MA,Current Roster
-630091,Tanner,Bailey,University of Texas at Tyler,Men - 93kg (205.0lbs),RAW,,677.5,TX,Schedule Update - New
-674241,Andrew,Hamel,Michigan State University,Men - 93kg (205.0lbs),RAW,,677.5,MI,Coaches Pass - New
-993795,Max,Blackledge,Mid Michigan College,Men - 93kg (205.0lbs),RAW,,667.5,MI,Academic Eligibility Form - New
+973572,Jaron,Yamane,University of Hawai’i at Mānoa,Men - 93kg (205.0lbs),RAW,,682.5,HI,
+329637,Alex,Merino,The University of Maryland,Men - 93kg (205.0lbs),RAW,,680,MD,
+188838,Devin,Tran,Temple University,Men - 93kg (205.0lbs),RAW,,680,PA,
+583895,Tyler,Wang,Wesleyan University,Men - 93kg (205.0lbs),RAW,,680,CA,
+769178,Matt,Garrett,University of Toledo,Men - 93kg (205.0lbs),RAW,,680,OH,
+353178,Colton,Hurley,Midland University,Men - 93kg (205.0lbs),RAW,,680,NC,
+883821,Christopher,DeCaro,UMASS Amherst,Men - 93kg (205.0lbs),RAW,,680,MA,
+630091,Tanner,Bailey,University of Texas at Tyler,Men - 93kg (205.0lbs),RAW,,677.5,TX,
+674241,Andrew,Hamel,Michigan State University,Men - 93kg (205.0lbs),RAW,,677.5,MI,
+993795,Max,Blackledge,Mid Michigan College,Men - 93kg (205.0lbs),RAW,,667.5,MI,
+731834,Garett,Haug,university of wisconsin-Mil,Men - 93kg (205.0lbs),RAW,,667.5,WI,
 674225,Daniel,Aguirre,University of Hawaii at Manoa,Men - 93kg (205.0lbs),RAW,,665,HI,
 863224,Jacob,Hartwell,Rochester Inst. of Technology,Men - 93kg (205.0lbs),RAW,,662.5,NY,
 250690,Jacob,Combs,Ohio State University,Men - 93kg (205.0lbs),RAW,,660,OH,
+885957,Michael,Berrian,University of Denver,Men - 93kg (205.0lbs),RAW,,650,CO,
 751980,Brenn,McKee,Purdue University,Men - 93kg (205.0lbs),RAW,,647.5,IN,
 920369,Adrian,Acuna,George Mason University,Men - 93kg (205.0lbs),RAW,,645,VA,
+648968,Alex,Gaeth,University Wisconsin-Milwaukee,Men - 93kg (205.0lbs),RAW,,645,WI,
 957335,Hunter,Flora,University of Virginia,Men - 93kg (205.0lbs),RAW,,642.5,VA,
+700620,George,Neef,Ottawa University,Men - 93kg (205.0lbs),RAW,,637.5,KS,
 444768,Clifford,David,Sacramento State University,Men - 93kg (205.0lbs),RAW,,635,CA,
 152919,Troy,Peressini,Montclair State University,Men - 93kg (205.0lbs),RAW,,635,NJ,
 508442,Cameron,Severin,University of Wisconsin Eau Cl,Men - 93kg (205.0lbs),RAW,,635,WI,
+309942,Jeremy,Johnson,McNeese State University,Men - 93kg (205.0lbs),RAW,,632.5,LA,
+403088,Anthony,Minerva,Clemson University,Men - 93kg (205.0lbs),RAW,,630,SC,
+453436,Nikolas,Davis,Slippery Rock University,Men - 93kg (205.0lbs),RAW,RAW,618,OH,
 557879,Luke,Brinkman,UW-Eau Claire,Men - 93kg (205.0lbs),RAW,,617.5,WI,
 41374,Thomas,Foos,Penn State Behrend,Men - 93kg (205.0lbs),RAW,,615,NY,
+359519,Tyler,McGraw,Washington U. in St. Louis,Men - 93kg (205.0lbs),RAW,,615,MO,
 556368,Danny,Huynh,Louisiana State University,Men - 93kg (205.0lbs),RAW,,614.9,LA,
 551514,Devyn,Hebbe,University of North Texas,Men - 93kg (205.0lbs),RAW,,612.5,TX,
 201334,Jakin,Buckalew,Auburn University,Men - 93kg (205.0lbs),RAW,,607.5,GA,
 293221,Mateus,Quermes de Medeiros,Rutgers,Men - 93kg (205.0lbs),RAW,,607.5,NJ,
 371760,Rakip,Alimi,University Wisconsin-Madison,Men - 93kg (205.0lbs),RAW,,607.5,WI,
 423715,Logan,Sharp,Pennsylvania State University,Men - 93kg (205.0lbs),RAW,,607.5,PA,
-924554,bryce,dawson,University of Pittsburgh,Men - 93kg (205.0lbs),RAW,,607.5,PA,Important Links
-524205,Irakli Siradze,Siradze,University of Kentucky,Men - 93kg (205.0lbs),RAW,,607.5,KY,Team Entry
-435215,Isaak,Wilson,University of Nebraska Lincoln,Men - 93kg (205.0lbs),RAW,,607.5,NE,Team Roster Submission (No Roster Until Team Entry is Paid)
-192302,Michael,bress,Michigan State University,Men - 93kg (205.0lbs),RAW,,600,MI,Change Request Form
-208034,Kenneth,Allen,UW - Madison,Men - 93kg (205.0lbs),RAW,,500,WI,Individual Entry Form
-244311,Ty,Nicholson,University of North Texas,Men - 93kg (205.0lbs),RAW,,0,TX,Referee Sign-up Form
-432219,Thomas,Palmisano,Arizona State University,Men - 93kg (205.0lbs),RAW,,0,AZ,Current Roster
-665234,Caden,Malbrough,UL Lafayette,Men - 105kg (231.4lbs),EQUIPPED,,862.5,LA,Schedule Update - New
-196207,Alex,Rushing,Louisiana Tech University,Men - 105kg (231.4lbs),EQUIPPED,,775,LA,Coaches Pass - New
-765071,Jessie,Badeaux,UL Lafayette,Men - 105kg (231.4lbs),EQUIPPED,,772.5,LA,Academic Eligibility Form - New
+924554,bryce,dawson,University of Pittsburgh,Men - 93kg (205.0lbs),RAW,,607.5,PA,
+524205,Irakli Siradze,Siradze,University of Kentucky,Men - 93kg (205.0lbs),RAW,,607.5,KY,
+435215,Isaak,Wilson,University of Nebraska Lincoln,Men - 93kg (205.0lbs),RAW,,607.5,NE,
+192302,Michael,bress,Michigan State University,Men - 93kg (205.0lbs),RAW,,600,MI,
+208034,Kenneth,Allen,UW - Madison,Men - 93kg (205.0lbs),RAW,,500,WI,
+244311,Ty,Nicholson,University of North Texas,Men - 93kg (205.0lbs),RAW,,0,TX,
+432219,Thomas,Palmisano,Arizona State University,Men - 93kg (205.0lbs),RAW,,0,AZ,
+180979,JOSHUA,BROWN,Texas A&M University,Men - 105kg (231.4lbs),EQUIPPED,,875,TX,
+665234,Caden,Malbrough,UL Lafayette,Men - 105kg (231.4lbs),EQUIPPED,,862.5,LA,
+196207,Alex,Rushing,Louisiana Tech University,Men - 105kg (231.4lbs),EQUIPPED,,775,LA,
+765071,Jessie,Badeaux,UL Lafayette,Men - 105kg (231.4lbs),EQUIPPED,,772.5,LA,
+688262,Haydn,Tidball,United States Naval Academy,Men - 105kg (231.4lbs),EQUIPPED,,767.5,MD,
 908953,Brant,Kobersky,Sam Houston State University,Men - 105kg (231.4lbs),EQUIPPED,,752.5,TX,
 323448,Alex,Bruskin,Northeastern University,Men - 105kg (231.4lbs),EQUIPPED,,732.5,NJ,
 427372,Joseph,Bueno,Midland University,Men - 105kg (231.4lbs),EQUIPPED,,727.5,TX,
 406250,William,Spencer,Northeastern University,Men - 105kg (231.4lbs),EQUIPPED,,722.5,CT,
+619101,Andrew,Donati,University of Indianapolis,Men - 105kg (231.4lbs),EQUIPPED,,702.5,IN,
 331635,Caden,Garrett,Northeastern University,Men - 105kg (231.4lbs),EQUIPPED,,680,MA,
 566488,John,Licata,Northeastern University,Men - 105kg (231.4lbs),EQUIPPED,,680,NY,
 718260,Dalton,Staller,Midland University,Men - 105kg (231.4lbs),EQUIPPED,,662.5,WI,
 449503,Joseph,Chustz,LSU State University,Men - 105kg (231.4lbs),EQUIPPED,,652.5,LA,
+114647,Samuel,Allegretti,Northeastern University,Men - 105kg (231.4lbs),EQUIPPED,,650,CT,
 214830,Matthew,Rideau,UL Lafayette,Men - 105kg (231.4lbs),EQUIPPED,,647.5,LA,
 524887,Seth,Gibson- Todd,Mississippi State University,Men - 105kg (231.4lbs),EQUIPPED,,635,MS,
 706115,Xavian Herod,Herod,Blue Mountain College,Men - 105kg (231.4lbs),EQUIPPED,,630,MS,
+621969,Garrett,Mitchell,United States Naval Academy,Men - 105kg (231.4lbs),EQUIPPED,,630,MD,
 536759,Benjamin Rivers,Rivers,Blue Mountain College,Men - 105kg (231.4lbs),EQUIPPED,,602.5,MS,
 720430,Brady,Bogues,UL Lafayette,Men - 105kg (231.4lbs),EQUIPPED,,572.5,LA,
 104241,Leonard,Sampson,UL Lafayette,Men - 105kg (231.4lbs),EQUIPPED,,0,LA,
-658105,Matt,Weisberg,Midland University,Men - 105kg (231.4lbs),RAW,,773,PA,Important Links
-790598,Kevin,Nguyen,UTSA,Men - 105kg (231.4lbs),RAW,,770,TX,Team Entry
-188626,Kaleb,Miller,Wisconsin - La Crosse,Men - 105kg (231.4lbs),RAW,,720,WI,Team Roster Submission (No Roster Until Team Entry is Paid)
-571069,Camden,Wilson,Mary Hardin-Baylor,Men - 105kg (231.4lbs),RAW,,720,TX,Change Request Form
-436876,Ryan,Dengler,The Ohio State University,Men - 105kg (231.4lbs),RAW,,717.5,OH,Individual Entry Form
-367034,Tyler,Wilson,Friends University,Men - 105kg (231.4lbs),RAW,,712.5,KS,Referee Sign-up Form
-480548,Paul,Harayo,UIC,Men - 105kg (231.4lbs),RAW,,710,IL,Current Roster
-671503,Justin,Nutt,Grand Valley State University,Men - 105kg (231.4lbs),RAW,,707.5,MI,Schedule Update - New
-300561,Aidan,Trainer,Pennsylvania State University,Men - 105kg (231.4lbs),RAW,,700,PA,Coaches Pass - New
-91845,Benjamin,Lawrence,St.Cloud State University,Men - 105kg (231.4lbs),RAW,,682.5,MN,Academic Eligibility Form - New
+658105,Matt,Weisberg,Midland University,Men - 105kg (231.4lbs),RAW,,773,PA,
+790598,Kevin,Nguyen,UTSA,Men - 105kg (231.4lbs),RAW,,770,TX,
+188626,Kaleb,Miller,Wisconsin - La Crosse,Men - 105kg (231.4lbs),RAW,,720,WI,
+571069,Camden,Wilson,Mary Hardin-Baylor,Men - 105kg (231.4lbs),RAW,,720,TX,
+436876,Ryan,Dengler,The Ohio State University,Men - 105kg (231.4lbs),RAW,,717.5,OH,
+367034,Tyler,Wilson,Friends University,Men - 105kg (231.4lbs),RAW,,712.5,KS,
+93558,Vincent,Wilson,Temple College,Men - 105kg (231.4lbs),RAW,,712.5,TX,
+480548,Paul,Harayo,UIC,Men - 105kg (231.4lbs),RAW,,710,IL,
+671503,Justin,Nutt,Grand Valley State University,Men - 105kg (231.4lbs),RAW,,707.5,MI,
+300561,Aidan,Trainer,Pennsylvania State University,Men - 105kg (231.4lbs),RAW,,700,PA,
+364349,Davis,Creach,Rhodes College,Men - 105kg (231.4lbs),RAW,,687.5,TN,
+91845,Benjamin,Lawrence,St.Cloud State University,Men - 105kg (231.4lbs),RAW,,682.5,MN,
 933324,Brendan,Todd,Rutgers University,Men - 105kg (231.4lbs),RAW,,682.5,NJ,
+600703,Caleb,Smith,Texas A&M University,Men - 105kg (231.4lbs),RAW,,682.5,TX,
 722427,George,Hana,Rutgers University - NB,Men - 105kg (231.4lbs),RAW,,680,NJ,
 930219,Robert,Londono,UW-Madison,Men - 105kg (231.4lbs),RAW,,680,IL,
+956516,Alex,Schildgen,Butler University,Men - 105kg (231.4lbs),RAW,,677.5,WI,
 985530,Scott,Derene,University of South Carolina,Men - 105kg (231.4lbs),RAW,,660,CT,
+764723,Connor,Kelligrew,UCLA,Men - 105kg (231.4lbs),RAW,,657.5,AZ,
+764723,Connor,Kelligrew,UCLA,Men - 105kg (231.4lbs),RAW,,657.5,AZ,
 838941,John,Shuster,Washington University,Men - 105kg (231.4lbs),RAW,,650,MO,
 225459,Tristan,Watson,Texas State University,Men - 105kg (231.4lbs),RAW,,645,TX,
 18979,Joseph,Koenecke,UW- La Crosse,Men - 105kg (231.4lbs),RAW,,642.5,WI,
+147891,Baxter,Self,Ottawa University,Men - 105kg (231.4lbs),RAW,,640,KS,
 923998,Rock,Hoffman,Brown University,Men - 105kg (231.4lbs),RAW,,635,NY,
 519239,Joshua,Sholder,Drexel University,Men - 105kg (231.4lbs),RAW,,632.5,PA,
+339117,Branden,Clay,Texas Tech University,Men - 105kg (231.4lbs),RAW,,627.5,TX,
 247022,Nathaniel,Wolf,IDC Herzliya,Men - 105kg (231.4lbs),RAW,,625,NJ,
 898584,Isaac,Van Thomme,UW-Eau Claire,Men - 105kg (231.4lbs),RAW,,622.5,WI,
 127755,Brock,Wetzlich,University of Hawaii at Manoa,Men - 105kg (231.4lbs),RAW,,617.5,HI,
@@ -620,16 +769,17 @@ Lifter ID,First Name,Last Name,University Represented,Weight Class,Primary Divis
 77013,Zau,Lahtaw,VCU,Men - 105kg (231.4lbs),RAW,,617.5,VA,
 665410,Eddie,Strickland,Auburn University,Men - 105kg (231.4lbs),RAW,,610,AL,
 237815,Alexander,Barkov,Kent State University,Men - 105kg (231.4lbs),RAW,,610,OH,
-744563,zhennan,zhu,University of San Francisco,Men - 105kg (231.4lbs),RAW,,602.5,CA,Important Links
-,Erik,High,The Ohio State University,Men - 105kg (231.4lbs),RAW,,600,OH,Team Entry
-698192,Raul,Aguilera,UTSA,Men - 105kg (231.4lbs),RAW,,600,TX,Team Roster Submission (No Roster Until Team Entry is Paid)
-990463,Peyton,Meigs,Auburn University,Men - 105kg (231.4lbs),RAW,,600,AL,Change Request Form
-376017,Trey,Lindekugel,Pacific University,Men - 105kg (231.4lbs),RAW,,600,OR,Individual Entry Form
-653140,Joshua,Schmidt,University of Nebraska-Lincoln,Men - 105kg (231.4lbs),RAW,,597.5,NE,Referee Sign-up Form
-397271,Juan,Gomez,UTSA,Men - 105kg (231.4lbs),RAW,,595,TX,Current Roster
-370225,Andrew,Castillo,Arizona State University,Men - 105kg (231.4lbs),RAW,,590,AZ,Schedule Update - New
-211479,Andrew,Rust,Pennsylvania State University,Men - 105kg (231.4lbs),RAW,,587.5,PA,Coaches Pass - New
-263841,Collin,van Eijk,Loyola University Chicago,Men - 105kg (231.4lbs),RAW,,587.5,IL,Academic Eligibility Form - New
+744563,zhennan,zhu,University of San Francisco,Men - 105kg (231.4lbs),RAW,,602.5,CA,
+,Erik,High,The Ohio State University,Men - 105kg (231.4lbs),RAW,,600,OH,
+698192,Raul,Aguilera,UTSA,Men - 105kg (231.4lbs),RAW,,600,TX,
+990463,Peyton,Meigs,Auburn University,Men - 105kg (231.4lbs),RAW,,600,AL,
+376017,Trey,Lindekugel,Pacific University,Men - 105kg (231.4lbs),RAW,,600,OR,
+653140,Joshua,Schmidt,University of Nebraska-Lincoln,Men - 105kg (231.4lbs),RAW,,597.5,NE,
+397271,Juan,Gomez,UTSA,Men - 105kg (231.4lbs),RAW,,595,TX,
+816374,Alejandro,Barba,Sam Houston State,Men - 105kg (231.4lbs),RAW,,592.5,TX,
+370225,Andrew,Castillo,Arizona State University,Men - 105kg (231.4lbs),RAW,,590,AZ,
+211479,Andrew,Rust,Pennsylvania State University,Men - 105kg (231.4lbs),RAW,,587.5,PA,
+263841,Collin,van Eijk,Loyola University Chicago,Men - 105kg (231.4lbs),RAW,,587.5,IL,
 486070,Alex,Schultz,Viterbo University,Men - 105kg (231.4lbs),RAW,,585,WI,
 923910,John,Piekut,University of Pittsburgh,Men - 105kg (231.4lbs),RAW,,582.5,PA,
 573543,Eston,Epton,Texas Tech University,Men - 105kg (231.4lbs),RAW,,582.5,TX,
@@ -645,6 +795,11 @@ Lifter ID,First Name,Last Name,University Represented,Weight Class,Primary Divis
 528172,Nathan,Macleary,Pennsylvania State University,Men - 105kg (231.4lbs),RAW,,572.5,PA,
 449631,Benjamin,Constantinides,Rutgers University NB,Men - 105kg (231.4lbs),RAW,,572.5,NJ,
 615846,Jacob,Mercer,Penn State,Men - 105kg (231.4lbs),RAW,,572.5,PA,
+6247,Billy,Asch,Texas A&M University,Men - 105kg (231.4lbs),RAW,,572.5,TX,
+618704,Yamir,Flores,Texas A&M University,Men - 105kg (231.4lbs),RAW,,572.5,TX,
+734172,Christian,Mathews,Texas Tech University,Men - 105kg (231.4lbs),RAW,,572.5,TX,
+201188,Evan,Bilicek,Texas A&M University,Men - 105kg (231.4lbs),RAW,,572.5,TX,
+252690,Kyle,Brennan,SHSU,Men - 105kg (231.4lbs),RAW,,572.5,TX,
 891969,Dakoda,Trull,Texas Tech University,Men - 120kg (264.5lbs),EQUIPPED,,897.5,TX,
 256017,Louie,Liu,Northeastern University,Men - 120kg (264.5lbs),EQUIPPED,,767.5,MA,
 193925,Matthew,Reed,Louisiana Tech University,Men - 120kg (264.5lbs),EQUIPPED,,700,LA,
@@ -652,6 +807,8 @@ Lifter ID,First Name,Last Name,University Represented,Weight Class,Primary Divis
 137530,Hunter,Little,Blue Mountain College,Men - 120kg (264.5lbs),EQUIPPED,,615,MS,
 489268,Joseph,Staley,University of Rhode Island,Men - 120kg (264.5lbs),EQUIPPED,,615,RI,
 687716,Kendel,Beck,Angelo State University,Men - 120kg (264.5lbs),EQUIPPED,,607.5,TX,
+613580,Austin,Culver,Texas A&M,Men - 120kg (264.5lbs),EQUIPPED,,607.5,TX,
+412072,Joaquin,Garza,Sam Houston University,Men - 120kg (264.5lbs),EQUIPPED,,607.5,TX,
 969560,Caleb,Stephens,Blue Mountain College,Men - 120kg (264.5lbs),EQUIPPED,,0,MS,
 574147,Caleb,Gibson,Liberty University,Men - 120kg (264.5lbs),RAW,,1323,PA,
 226144,Gabriel,Overton,University of Toledo,Men - 120kg (264.5lbs),RAW,,760,OH,
@@ -672,6 +829,7 @@ Lifter ID,First Name,Last Name,University Represented,Weight Class,Primary Divis
 699548,Liam,Hoey,Drexel University,Men - 120kg (264.5lbs),RAW,,660,PA,
 977354,Nathan,Whybra,University of Rochester,Men - 120kg (264.5lbs),RAW,,655,NY,
 540502,Philip,Taranski,DePaul University,Men - 120kg (264.5lbs),RAW,,652.5,IL,
+975652,Nicholas,Leach,UW-Milwaukee Powerlifting Club,Men - 120kg (264.5lbs),RAW,,652.5,WI,
 260588,Samuel,Belling,University of Wisconsin,Men - 120kg (264.5lbs),RAW,,650,WI,
 437839,Mateo,Florez,Friends University,Men - 120kg (264.5lbs),RAW,,640.019,OK,
 441861,Kolton,Dupey,Chippewa Valley Tech College,Men - 120kg (264.5lbs),RAW,,632.5,WI,
@@ -681,22 +839,31 @@ Lifter ID,First Name,Last Name,University Represented,Weight Class,Primary Divis
 864433,Corbin,McGuffin-Noll,Ohio State University,Men - 120kg (264.5lbs),RAW,,610,OH,
 862288,James,Almgren-Bell,University of Texas at Austin,Men - 120kg (264.5lbs),RAW,,610,TX,
 569583,Daniel,Shaver,West Virginia University,Men - 120kg (264.5lbs),RAW,,602.5,VA,
+696816,Micheal,Reffner,Ottawa University,Men - 120kg (264.5lbs),RAW,,597.5,KS,
 225237,Campbell,Keating,WashU,Men - 120kg (264.5lbs),RAW,,595,TX,
 705892,Robert,Garcia,Friends university,Men - 120kg (264.5lbs),RAW,,590,KS,
 330249,Andrew,Senft,Penn State,Men - 120kg (264.5lbs),RAW,,587.5,PA,
+472043,Thoger,Boyum,UW Eau Claire,Men - 120kg (264.5lbs),RAW,,585,WI,
 685973,Nicholas,Purcell,UW-Madison,Men - 120kg (264.5lbs),RAW,,582.5,WI,
 287152,Matt,Leake,University of Rhode Island,Men - 120kg (264.5lbs),RAW,,567.5,CT,
 465096,Ethan,Gammage,The Ohio State University,Men - 120kg (264.5lbs),RAW,,562.5,OH,
 378014,Gavin,Yociss,McKendree University,Men - 120kg (264.5lbs),RAW,,560,IL,
 400642,Joseph,Markes,Missouri Valley College,Men - 120kg (264.5lbs),RAW,,560,MO,
+396500,Drew,Robinson,Sam Houston University,Men - 120kg (264.5lbs),RAW,,560,TX,
+384019,Nicolas,Martin,Slippery Rock University,Men - 120kg (264.5lbs),RAW,,560,PA,
 175017,Moses,Alwood,Liberty University,Men - 120kg (264.5lbs),RAW,,557.5,VA,
 505284,Dylan,Aguillard,University of Houston,Men - 120kg (264.5lbs),RAW,,557.5,TX,
 110266,Kael,Venerable,Missouri Valley College,Men - 120kg (264.5lbs),RAW,,552.5,MO,
 629740,Giovanni,Cacahua,Madison-MATC,Men - 120kg (264.5lbs),RAW,,545,WI,
+184732,Jackson,Burch,FIU,Men - 120kg (264.5lbs),RAW,,540,FL,
+184732,Jackson,Burch,FIU,Men - 120kg (264.5lbs),RAW,,540,FL,
 114970,Gavin,Corino,Pennsylvania State University,Men - 120kg (264.5lbs),RAW,,537.5,PA,
+941356,Connor,Lynch,UW - Milwaukee,Men - 120kg (264.5lbs),RAW,,537.5,WI,
 558886,Dylon,Cook,Louisiana State University,Men - Over 120kg (Over 264.5lbs),EQUIPPED,,957.5,LA,
 355923,Charterrius,Terry,Louisiana Tech University,Men - Over 120kg (Over 264.5lbs),EQUIPPED,,892.5,LA,
+10440,Keith,Jackson II,The University of Texas,Men - Over 120kg (Over 264.5lbs),EQUIPPED,,837.5,TX,
 786276,Clay,Ellis,UTSA,Men - Over 120kg (Over 264.5lbs),EQUIPPED,,835,TX,
+998127,Carter,Wheat,Texas A&M University,Men - Over 120kg (Over 264.5lbs),EQUIPPED,,802.5,TX,
 513098,Sam,Day,UL Lafayette,Men - Over 120kg (Over 264.5lbs),EQUIPPED,,757.5,LA,
 503410,Kenneth,Smith,Midland University,Men - Over 120kg (Over 264.5lbs),EQUIPPED,,735,MN,
 416952,Corbyn,Belgard,ULL,Men - Over 120kg (Over 264.5lbs),EQUIPPED,,700,LA,
@@ -711,8 +878,11 @@ Lifter ID,First Name,Last Name,University Represented,Weight Class,Primary Divis
 557349,Josh,Spurgeon,University of Toledo,Men - Over 120kg (Over 264.5lbs),RAW,,772.5,OH,
 457847,Robert,Wilson,Kent State University,Men - Over 120kg (Over 264.5lbs),RAW,,750,OH,
 901807,Tyler,Wozniak,Pennsylvania State University,Men - Over 120kg (Over 264.5lbs),RAW,,707.5,PA,
+844569,Tucker,Richey,Ottawa University,Men - Over 120kg (Over 264.5lbs),RAW,,700,KS,
 902118,Luke,Mellon,Missouri Valley College,Men - Over 120kg (Over 264.5lbs),RAW,,697.5,MO,
 106992,Wentao,He,University of Pennsylvania,Men - Over 120kg (Over 264.5lbs),RAW,,657.5,PA,
+621052,Andres,Soto,Texas A&M University,Men - Over 120kg (Over 264.5lbs),RAW,,650,TX,
+666323,Andres,Soto,Texas A&M University,Men - Over 120kg (Over 264.5lbs),RAW,,650,TX,
 183376,Daniel,Sanchez,UTSA,Men - Over 120kg (Over 264.5lbs),RAW,,647.5,TX,
 917331,Josh,Norton,Louisiana Tech University,Men - Over 120kg (Over 264.5lbs),RAW,,647.5,TN,
 665730,Jordan,Dell'orto,Penn State,Men - Over 120kg (Over 264.5lbs),RAW,,645,PA,
@@ -723,176 +893,6 @@ Lifter ID,First Name,Last Name,University Represented,Weight Class,Primary Divis
 586508,Zachary,Sicilian,The Ohio State University,Men - Over 120kg (Over 264.5lbs),RAW,,597.5,OH,
 773680,Max,Casas,Texas Tech University,Men - Over 120kg (Over 264.5lbs),RAW,,592.5,TX,
 640075,Sawyer,Caldwell,Tarleton State University,Men - Over 120kg (Over 264.5lbs),RAW,,560,TX,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,

@@ -14,7 +14,7 @@ driver = webdriver.Chrome("./chromedriver", chrome_options = chrome_options)
 def get_table_on_lifter(name):
   name_xpath = "/html/body/ul/li[2]"
   driver.get("http://www.usapl.liftingdatabase.com")
-  wait = WebDriverWait(driver, 15)
+  wait = WebDriverWait(driver, 5)
   searchbox = driver.find_element_by_id("search")
   searchbox.send_keys(_convert(name))
   try:

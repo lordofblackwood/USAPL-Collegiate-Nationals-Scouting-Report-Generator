@@ -39,7 +39,10 @@ odd_names = {
         "Da'Jour Jupiter Jupiter": "Da'Jour Jupiter",
         "Chris Medina Jr.": "Christopher Medina Jr.",
         "Sion Farley-Thompson": "Sion Farley- Thompson",
-        "Destinie' Small": "Destinie’ Small"
+        "Destinie' Small": "Destinie’ Small",
+        "Rebeca Jaramillo" : "Rebecca Jaramillo",
+        "Alysia Santa Cruz-Cernik" : "Alysia Santa Cruz Cernik",
+        "Mei Westerhold" : "Emma Westerhold"
         }
 
 def get_lifter_names_from_csv(category = "EQUIPPED"):
